@@ -22,6 +22,9 @@ http://mscoco.org/
 
 Semantic Segmentation Code:
 ~~~
+"Convolutional (Patch) Networks for Semantic Segmentation "
+https://github.com/cvjena/cn24
+
 "Learning to Propose Objects"
 http://vladlen.info/publications/learning-to-propose-objects/
 https://github.com/philkr/lpo
