@@ -37,4 +37,8 @@ https://github.com/torrvision/crfasrnn
 
 Graphical Models / Conditional Random Field Toolbox
 http://users.cecs.anu.edu.au/~jdomke/JGMT/
+
+https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
+https://github.com/tpeng/python-crfsuite
+https://github.com/chokkan/crfsuite
 ~~~
