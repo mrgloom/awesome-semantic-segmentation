@@ -22,6 +22,12 @@ http://mscoco.org/
 
 Semantic Segmentation Code:
 ~~~
+"Learning Deconvolution Network for Semantic Segmentation"
+https://github.com/HyeonwooNoh/DeconvNet
+
+"Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation"
+https://github.com/HyeonwooNoh/DecoupledNet
+
 "Convolutional (Patch) Networks for Semantic Segmentation"
 https://github.com/cvjena/cn24
 
