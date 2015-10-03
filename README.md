@@ -34,4 +34,7 @@ http://people.csail.mit.edu/celiu/LabelTransfer/code.html
 
 "Conditional Random Fields as Recurrent Neural Networks"
 https://github.com/torrvision/crfasrnn
+
+Graphical Models / Conditional Random Field Toolbox
+http://users.cecs.anu.edu.au/~jdomke/JGMT/
 ~~~
