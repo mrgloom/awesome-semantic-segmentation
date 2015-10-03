@@ -22,6 +22,9 @@ http://mscoco.org/
 
 Semantic Segmentation Code:
 ~~~
+Semantic Segmentation for Aerial Imagery using Convolutional Neural Network
+https://github.com/mitmul/ssai
+
 "Learning Deconvolution Network for Semantic Segmentation"
 https://github.com/HyeonwooNoh/DeconvNet
 
