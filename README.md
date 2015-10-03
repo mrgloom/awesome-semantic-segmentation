@@ -18,6 +18,8 @@ Barcelona Dataset
 http://www.cs.unc.edu/~jtighe/Papers/ECCV10/
 Microsoft COCO dataset
 http://mscoco.org/
+MSRC Dataset
+http://research.microsoft.com/en-us/projects/objectclassrecognition/
 ~~~
 
 Semantic Segmentation Code:
