@@ -26,6 +26,7 @@ Semantic Segmentation Code:
 ~~~
 TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
 http://jamie.shotton.org/work/code.html
+https://github.com/amueller/textonboost
 
 Semantic Segmentation for Aerial Imagery using Convolutional Neural Network
 https://github.com/mitmul/ssai
