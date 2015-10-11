@@ -29,6 +29,10 @@ http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_resu
 
 Semantic Segmentation Code:
 ~~~
+A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation
+'Fully Convolutional Models for Semantic Segmentation', Jonathan Long, Evan Shelhamer and Trevor Darrell, CVPR, 2015
+https://github.com/vlfeat/matconvnet-fcn
+
 TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
 http://jamie.shotton.org/work/code.html
 https://github.com/amueller/textonboost
