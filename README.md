@@ -29,6 +29,10 @@ http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_resu
 
 Semantic Segmentation Code:
 ~~~
+Simultaneous detection and segmentation
+http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
+https://github.com/bharath272/sds_eccv2014
+
 A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation
 'Fully Convolutional Models for Semantic Segmentation', Jonathan Long, Evan Shelhamer and Trevor Darrell, CVPR, 2015
 https://github.com/vlfeat/matconvnet-fcn
