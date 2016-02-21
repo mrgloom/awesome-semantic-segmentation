@@ -74,4 +74,7 @@ https://github.com/tpeng/python-crfsuite
 https://github.com/chokkan/crfsuite
 
 https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
+
+http://cvlab.postech.ac.kr/research/deconvnet/
+
 ~~~
