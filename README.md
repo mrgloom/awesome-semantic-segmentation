@@ -73,6 +73,11 @@ SegNet
 http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 https://github.com/alexgkendall/caffe-segnet
 
+DeepLab
+https://bitbucket.org/deeplab/deeplab-public/
+http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
+https://github.com/cdmh/deeplab-public
+
 https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
 https://github.com/tpeng/python-crfsuite
 https://github.com/chokkan/crfsuite
