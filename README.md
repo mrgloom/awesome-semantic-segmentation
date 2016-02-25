@@ -78,6 +78,9 @@ https://bitbucket.org/deeplab/deeplab-public/
 http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 https://github.com/cdmh/deeplab-public
 
+https://github.com/jliemansifry/super-simple-semantic-segmentation
+
+
 https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
 https://github.com/tpeng/python-crfsuite
 https://github.com/chokkan/crfsuite
