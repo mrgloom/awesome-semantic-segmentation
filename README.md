@@ -77,6 +77,8 @@ DeepLab
 https://bitbucket.org/deeplab/deeplab-public/
 http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 https://github.com/cdmh/deeplab-public
+https://github.com/cvlab-epfl/densecrf
+http://www.philkr.net/home/densecrf
 
 https://github.com/jliemansifry/super-simple-semantic-segmentation
 
