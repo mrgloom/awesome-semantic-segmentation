@@ -82,6 +82,8 @@ http://www.philkr.net/home/densecrf
 
 https://github.com/jliemansifry/super-simple-semantic-segmentation
 
+mxnet fcn-xs
+https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
 
 https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
 https://github.com/tpeng/python-crfsuite
