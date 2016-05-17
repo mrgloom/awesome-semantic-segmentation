@@ -94,4 +94,6 @@ https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
 
 http://cvlab.postech.ac.kr/research/deconvnet/
 
+Pixelwise segmentation
+https://github.com/naibaf7/caffe_neural_tool
 ~~~
