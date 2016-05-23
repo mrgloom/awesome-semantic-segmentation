@@ -25,6 +25,7 @@ http://research.microsoft.com/en-us/projects/objectclassrecognition/
 Results:
 ~~~
 http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html
+https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
 ~~~
 
 Semantic Segmentation Code:
