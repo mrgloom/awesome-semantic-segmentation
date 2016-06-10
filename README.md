@@ -80,7 +80,10 @@ https://bitbucket.org/deeplab/deeplab-public/
 http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 https://github.com/cdmh/deeplab-public
 https://github.com/cvlab-epfl/densecrf
+
+Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
+https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
 
 https://github.com/jliemansifry/super-simple-semantic-segmentation
 
