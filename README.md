@@ -38,6 +38,7 @@ A MatConvNet-based implementation of the Fully-Convolutional Networks for image 
 'Fully Convolutional Models for Semantic Segmentation', Jonathan Long, Evan Shelhamer and Trevor Darrell, CVPR, 2015
 https://github.com/vlfeat/matconvnet-fcn
 https://github.com/shelhamer/fcn.berkeleyvision.org
+https://github.com/MarvinTeichmann/tensorflow-fcn
 
 TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
 http://jamie.shotton.org/work/code.html
@@ -106,4 +107,5 @@ http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 https://github.com/dmlc/mxnet/issues/1514
 
 https://github.com/fvisin/reseg
+
 ~~~
