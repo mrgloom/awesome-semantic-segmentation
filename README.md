@@ -84,6 +84,7 @@ https://github.com/cvlab-epfl/densecrf
 
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
+http://graphics.stanford.edu/projects/densecrf/
 https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
 
 https://github.com/jliemansifry/super-simple-semantic-segmentation
