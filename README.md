@@ -76,6 +76,7 @@ http://users.cecs.anu.edu.au/~jdomke/JGMT/
 SegNet
 http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 https://github.com/alexgkendall/caffe-segnet
+https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
 
 DeepLab
 https://bitbucket.org/deeplab/deeplab-public/
