@@ -120,4 +120,7 @@ https://github.com/mshivaprakash/sat-seg-thesis
 https://github.com/mitmul/ssai-cnn
 https://github.com/KGPML/Hyperspectral
 
+Video segmentation
+https://github.com/shelhamer/clockwork-fcn
+
 ~~~
