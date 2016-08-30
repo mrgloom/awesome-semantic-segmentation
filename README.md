@@ -7,6 +7,7 @@ Annotation Tools:
 https://github.com/AKSHAYUBHAT/ImageSegmentation
 https://github.com/kyamagu/js-segment-annotator
 https://github.com/CSAILVision/LabelMeAnnotationTool
+https://github.com/seanbell/opensurfaces-segmentation-ui
 ~~~
 
 Datasets:
