@@ -85,6 +85,9 @@ http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 https://github.com/cdmh/deeplab-public
 https://github.com/cvlab-epfl/densecrf
 
+https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
+https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
 http://graphics.stanford.edu/projects/densecrf/
