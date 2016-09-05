@@ -88,6 +88,9 @@ https://github.com/cvlab-epfl/densecrf
 https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
 https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
 
+Caffe
+https://github.com/fyu/dilation
+
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
 http://graphics.stanford.edu/projects/densecrf/
