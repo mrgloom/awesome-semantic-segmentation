@@ -113,8 +113,6 @@ https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
 
 http://cvlab.postech.ac.kr/research/deconvnet/
 
-https://github.com/facebookresearch/deepmask
-
 Pixelwise segmentation
 https://github.com/naibaf7/caffe_neural_tool
 
