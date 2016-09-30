@@ -99,6 +99,9 @@ https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
 
 https://github.com/jliemansifry/super-simple-semantic-segmentation
 
+torch
+https://github.com/facebookresearch/deepmask
+
 mxnet fcn-xs
 https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
 
