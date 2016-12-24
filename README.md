@@ -102,6 +102,8 @@ https://github.com/jliemansifry/super-simple-semantic-segmentation
 torch
 https://github.com/facebookresearch/deepmask
 https://github.com/e-lab/ENet-training
+https://github.com/fedor-chervinskii/segnet-torch
+https://github.com/erogol/seg-torch
 https://github.com/phillipi/pix2pix
 
 mxnet fcn-xs
