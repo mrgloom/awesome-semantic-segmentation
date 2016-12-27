@@ -91,6 +91,8 @@ https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
 Caffe
 https://github.com/fyu/dilation
 https://github.com/xiaolonw/nips14_loc_seg_testonly
+Efficient and Robust Networks for Semantic Segmentation 
+http://lmb.informatik.uni-freiburg.de/resources/software.php
 
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
