@@ -32,6 +32,12 @@ https://www.cityscapes-dataset.com/benchmarks/#pixel-level-results
 http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6
 ~~~
 
+Need to parse and add to list:
+~~~
+https://github.com/desimone/segmentation-models
+https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
+~~~
+
 Semantic Segmentation Code:
 ~~~
 Simultaneous detection and segmentation
@@ -152,5 +158,4 @@ Blog posts, other:
 ~~~
 https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
 http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
-https://github.com/desimone/segmentation-models
 ~~~
