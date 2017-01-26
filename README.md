@@ -103,6 +103,8 @@ Efficient and Robust Networks for Semantic Segmentation
 http://lmb.informatik.uni-freiburg.de/resources/software.php
 https://bitbucket.org/aquariusjay/deeplab-public-ver2
 https://github.com/hszhao/PSPNet
+https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
 
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
