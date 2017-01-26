@@ -152,4 +152,5 @@ Blog posts, other:
 ~~~
 https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
 http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
+https://github.com/desimone/segmentation-models
 ~~~
