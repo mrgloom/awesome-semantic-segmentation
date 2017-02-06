@@ -106,6 +106,7 @@ https://github.com/hszhao/PSPNet
 https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
 https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
 https://github.com/daijifeng001/MNC
+https://github.com/voidrank/FastMask
 
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
