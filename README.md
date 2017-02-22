@@ -82,6 +82,9 @@ https://github.com/torrvision/crfasrnn
 Graphical Models / Conditional Random Field Toolbox
 http://users.cecs.anu.edu.au/~jdomke/JGMT/
 
+"Recurrent Instance Segmentation"
+https://github.com/bernard24/RIS
+
 SegNet
 http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 https://github.com/alexgkendall/caffe-segnet
