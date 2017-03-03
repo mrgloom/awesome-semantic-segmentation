@@ -22,6 +22,8 @@ Microsoft COCO dataset
 http://mscoco.org/
 MSRC Dataset
 http://research.microsoft.com/en-us/projects/objectclassrecognition/
+LITS Liver Tumor Segmentation Dataset
+https://competitions.codalab.org/competitions/15595
 ~~~
 
 Results:
