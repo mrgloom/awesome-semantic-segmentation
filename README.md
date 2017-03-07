@@ -113,6 +113,9 @@ https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
 https://github.com/daijifeng001/MNC
 https://github.com/voidrank/FastMask
 
+MatConvNet
+https://github.com/guosheng/refinenet
+
 Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
 http://www.philkr.net/home/densecrf
 http://graphics.stanford.edu/projects/densecrf/
