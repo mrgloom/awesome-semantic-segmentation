@@ -24,6 +24,8 @@ MSRC Dataset
 http://research.microsoft.com/en-us/projects/objectclassrecognition/
 LITS Liver Tumor Segmentation Dataset
 https://competitions.codalab.org/competitions/15595
+KITTI
+http://www.cvlibs.net/datasets/kitti/eval_road.php
 ~~~
 
 Results:
@@ -171,6 +173,8 @@ https://github.com/KGPML/Hyperspectral
 Video segmentation
 https://github.com/shelhamer/clockwork-fcn
 
+Autonomous driving
+https://github.com/MarvinTeichmann/MultiNet
 ~~~
 
 Blog posts, other:
