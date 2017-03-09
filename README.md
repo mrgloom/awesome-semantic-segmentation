@@ -175,6 +175,7 @@ https://github.com/shelhamer/clockwork-fcn
 
 Autonomous driving
 https://github.com/MarvinTeichmann/MultiNet
+https://github.com/MarvinTeichmann/KittiSeg
 ~~~
 
 Blog posts, other:
