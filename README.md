@@ -150,6 +150,9 @@ http://cvlab.postech.ac.kr/research/deconvnet/
 Pixelwise segmentation
 https://github.com/naibaf7/caffe_neural_tool
 
+RNN
+https://github.com/fvisin/reseg
+
 Medical image segmentation:
 https://github.com/ecobost/cnn4brca
 U-Net: Convolutional Networks for Biomedical Image Segmentation
