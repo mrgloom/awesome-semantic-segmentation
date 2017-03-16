@@ -177,6 +177,7 @@ Satellite images segmentation
 https://github.com/mshivaprakash/sat-seg-thesis
 https://github.com/mitmul/ssai-cnn
 https://github.com/KGPML/Hyperspectral
+https://github.com/lopuhin/kaggle-dstl
 
 Video segmentation
 https://github.com/shelhamer/clockwork-fcn
