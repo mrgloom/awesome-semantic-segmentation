@@ -28,7 +28,7 @@ List of resources for semantic segmentation.
 - http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html
 - https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
 - https://www.cityscapes-dataset.com/benchmarks/
-- http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6
+- [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
 
 ## Other Lists
 
@@ -48,8 +48,6 @@ List of resources for semantic segmentation.
 - TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
   + http://jamie.shotton.org/work/code.html 
   + https://github.com/amueller/textonboost
-- Semantic Segmentation for Aerial Imagery using Convolutional Neural Network
-  + https://github.com/mitmul/ssai
 - Learning Deconvolution Network for Semantic Segmentation
   + https://github.com/HyeonwooNoh/DeconvNet
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
@@ -167,7 +165,12 @@ List of resources for semantic segmentation.
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
 ## Satellite images segmentation
 
-  + https://github.com/mshivaprakash/sat-seg-thesis  + https://github.com/mitmul/ssai-cnn  + https://github.com/KGPML/Hyperspectral  + https://github.com/lopuhin/kaggle-dstl
+  + https://github.com/mshivaprakash/sat-seg-thesis
+  + https://github.com/KGPML/Hyperspectral
+  + https://github.com/lopuhin/kaggle-dstl
+  - Semantic Segmentation for Aerial Imagery using Convolutional Neural Network
+  + https://github.com/mitmul/ssai
+  + https://github.com/mitmul/ssai-cnn
 
 ## Video segmentation
 
