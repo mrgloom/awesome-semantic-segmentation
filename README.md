@@ -169,7 +169,6 @@ List of resources for semantic segmentation.
   + https://github.com/mshivaprakash/sat-seg-thesis
   + https://github.com/KGPML/Hyperspectral
   + https://github.com/lopuhin/kaggle-dstl
-  - Semantic Segmentation for Aerial Imagery using Convolutional Neural Network
   + https://github.com/mitmul/ssai
   + https://github.com/mitmul/ssai-cnn
 
