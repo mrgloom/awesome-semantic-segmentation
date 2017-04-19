@@ -10,8 +10,7 @@ List of resources for semantic segmentation.
 - https://github.com/CSAILVision/LabelMeAnnotationTool
 - https://github.com/seanbell/opensurfaces-segmentation-ui
 	
-
-
+	
 ## Datasets:
 
 - [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
@@ -23,15 +22,16 @@ List of resources for semantic segmentation.
 - [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
 
 
-## Evaluation Results:
+## Results:
 
-- http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html
-- https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
-- https://www.cityscapes-dataset.com/benchmarks/
+- [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
+- [Cityscapes](https://www.cityscapes-dataset.com/benchmarks/)
 - [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
 
-## Other Lists
 
+## To look at
+
+- https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
 - https://github.com/desimone/segmentation-models
 - https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
 
@@ -163,6 +163,7 @@ List of resources for semantic segmentation.
 - Papers:
 
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
+  
 ## Satellite images segmentation
 
   + https://github.com/mshivaprakash/sat-seg-thesis
@@ -185,6 +186,6 @@ List of resources for semantic segmentation.
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
-	+ http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
+  + http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
   + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
 
