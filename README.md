@@ -118,7 +118,7 @@
   + http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
   + https://github.com/junyanz/MCILBoost
   
-- UNet Models to finetune in Caffe
+- Cascaded-FCN
   + https://github.com/IBBM/Cascaded-FCN
   
 - Keras
