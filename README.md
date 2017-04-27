@@ -36,6 +36,10 @@ List of resources for semantic segmentation.
 - https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
 
 
+## Networks by architecture
+- U-Net
+	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+
 ## Papers and Code:
 
 - Simultaneous detection and segmentation
