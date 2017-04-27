@@ -21,6 +21,7 @@ List of resources for semantic segmentation.
 - Caffe
 	+ https://github.com/fyu/dilation
 	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
+	+ https://github.com/naibaf7/caffe_neural_tool
   
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
@@ -123,10 +124,6 @@ List of resources for semantic segmentation.
   + https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
   + https://github.com/jliemansifry/super-simple-semantic-segmentation
 
-## Pixelwise segmentation
-
-  + https://github.com/naibaf7/caffe_neural_tool
-
 ## RNN
 
   + https://github.com/fvisin/reseg
@@ -172,40 +169,40 @@ List of resources for semantic segmentation.
 
 ## Annotation Tools:
 
-- https://github.com/AKSHAYUBHAT/ImageSegmentation
-- https://github.com/kyamagu/js-segment-annotator
-- https://github.com/CSAILVision/LabelMeAnnotationTool
-- https://github.com/seanbell/opensurfaces-segmentation-ui
+  + https://github.com/AKSHAYUBHAT/ImageSegmentation
+  + https://github.com/kyamagu/js-segment-annotator
+  + https://github.com/CSAILVision/LabelMeAnnotationTool
+  + https://github.com/seanbell/opensurfaces-segmentation-ui
 	
 	
 ## Datasets:
 
-- [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
-- [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
-- [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
-- [Microsoft COCO dataset](http://mscoco.org/)
-- [MSRC Dataset](http://research.microsoft.com/en-us/projects/objectclassrecognition/)
-- [LITS Liver Tumor Segmentation Dataset](https://competitions.codalab.org/competitions/15595)
-- [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
+  + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
+  + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
+  + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
+  + [Microsoft COCO dataset](http://mscoco.org/)
+  + [MSRC Dataset](http://research.microsoft.com/en-us/projects/objectclassrecognition/)
+  + [LITS Liver Tumor Segmentation Dataset](https://competitions.codalab.org/competitions/15595)
+  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
 
 
 ## Results:
 
-- [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
-- [Cityscapes](https://www.cityscapes-dataset.com/benchmarks/)
-- [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
+  + [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
+  + [Cityscapes](https://www.cityscapes-dataset.com/benchmarks/)
+  + [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
 
 
 ## To look at
 
-- https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
-- https://github.com/desimone/segmentation-models
-- https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
+  + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
+  + https://github.com/desimone/segmentation-models
+  + https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
 
 
 ## Blog posts, other:
 
-- https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
-- http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
-- https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
+  + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
+  + http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
+  + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
 
