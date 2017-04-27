@@ -11,11 +11,16 @@ List of resources for semantic segmentation.
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
 - DeepLab
 	+ https://bitbucket.org/deeplab/deeplab-public/
-	+ http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 	+ https://github.com/cdmh/deeplab-public
-	+ https://github.com/cvlab-epfl/densecrf
+	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2
+	+ http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
+	+ https://github.com/TheLegendAli/DeepLab-Context
 	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
 	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+ - Fully-Convolutional Network
+	+ https://github.com/vlfeat/matconvnet-fcn
+	+ https://github.com/shelhamer/fcn.berkeleyvision.org
+	+ https://github.com/MarvinTeichmann/tensorflow-fcn
 
 ## Networks by framework
 - Caffe
@@ -58,17 +63,6 @@ List of resources for semantic segmentation.
   + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
   + https://github.com/bharath272/sds_eccv2014
   
-- A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation
-
-  + https://github.com/vlfeat/matconvnet-fcn
-  + https://github.com/shelhamer/fcn.berkeleyvision.org
-  + https://github.com/MarvinTeichmann/tensorflow-fcn
-  
-- TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
-
-  + http://jamie.shotton.org/work/code.html 
-  + https://github.com/amueller/textonboost
-  
 - Learning Deconvolution Network for Semantic Segmentation
 
   + https://github.com/HyeonwooNoh/DeconvNet
@@ -77,60 +71,45 @@ List of resources for semantic segmentation.
 
   + https://github.com/HyeonwooNoh/DecoupledNet
   
-- Convolutional (Patch) Networks for Semantic Segmentation
-
-  + https://github.com/cvjena/cn24
-  
 - Learning to Propose Objects
 
   + http://vladlen.info/publications/learning-to-propose-objects/ 
   + https://github.com/philkr/lpo
   
-- Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
-
-  + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
-  
 - Nonparametric Scene Parsing via Label Transfer
 
   + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
   
-- Conditional Random Fields as Recurrent Neural Networks
-
-  + https://github.com/torrvision/crfasrnn
-  
-- Graphical Models / Conditional Random Field Toolbox
-
-  + http://users.cecs.anu.edu.au/~jdomke/JGMT/
-  
-- Recurrent Instance Segmentation
-
-  + https://github.com/bernard24/RIS
-
-- Efficient and Robust Networks for Semantic Segmentation 
-
+- Other
+  + https://github.com/cvjena/cn24
   + http://lmb.informatik.uni-freiburg.de/resources/software.php
-  + https://bitbucket.org/aquariusjay/deeplab-public-ver2
   + https://github.com/hszhao/PSPNet
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
-  + https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
   + https://github.com/daijifeng001/MNC
   + https://github.com/voidrank/FastMask
-  + https://github.com/TheLegendAli/DeepLab-Context
+  + http://jamie.shotton.org/work/code.html 
+  + https://github.com/amueller/textonboost
 
-- Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
-
+## Graphical Models (CRF, MRF)
+  + https://github.com/cvlab-epfl/densecrf
+  + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
   + http://www.philkr.net/home/densecrf
   + http://graphics.stanford.edu/projects/densecrf/
   + https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
   + https://github.com/jliemansifry/super-simple-semantic-segmentation
+  + http://users.cecs.anu.edu.au/~jdomke/JGMT/
 
 ## RNN
 
   + https://github.com/fvisin/reseg
+  + https://github.com/torrvision/crfasrnn
+  + https://github.com/bernard24/RIS
 
 ## Medical image segmentation:
 
-  + https://github.com/ecobost/cnn4brca
+- DIGITS
+  + https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
+  
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
 
   + http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
@@ -140,14 +119,17 @@ List of resources for semantic segmentation.
   + https://github.com/yulequan/melanoma-recognition
   + http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
   + https://github.com/junyanz/MCILBoost
+  
 - UNet Models to finetune in Caffe
-
   + https://github.com/IBBM/Cascaded-FCN
+  
 - Keras
-
   + https://github.com/jocicmarko/ultrasound-nerve-segmentation
+    
+- Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
+  + https://github.com/ecobost/cnn4brca
+  
 - Papers:
-
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
   
 ## Satellite images segmentation
