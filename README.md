@@ -1,7 +1,5 @@
 # Semantic-Segmentation-Evaluation
 
-List of resources for semantic segmentation.
-
 ## Networks by architecture
 - U-Net
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
