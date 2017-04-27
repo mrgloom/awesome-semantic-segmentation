@@ -39,41 +39,66 @@ List of resources for semantic segmentation.
 ## Papers and Code:
 
 - Simultaneous detection and segmentation
+
   + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
   + https://github.com/bharath272/sds_eccv2014
+  
 - A MatConvNet-based implementation of the Fully-Convolutional Networks for image segmentation
+
   + https://github.com/vlfeat/matconvnet-fcn
   + https://github.com/shelhamer/fcn.berkeleyvision.org
   + https://github.com/MarvinTeichmann/tensorflow-fcn
+  
 - TextonBoost: Joint Appearance, Shape and Context Modeling for Multi-Class Object Recognition and Segmentation
+
   + http://jamie.shotton.org/work/code.html 
   + https://github.com/amueller/textonboost
+  
 - Learning Deconvolution Network for Semantic Segmentation
+
   + https://github.com/HyeonwooNoh/DeconvNet
+  
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+
   + https://github.com/HyeonwooNoh/DecoupledNet
+  
 - Convolutional (Patch) Networks for Semantic Segmentation
+
   + https://github.com/cvjena/cn24
+  
 - Learning to Propose Objects
+
   + http://vladlen.info/publications/learning-to-propose-objects/ 
   + https://github.com/philkr/lpo
+  
 - Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials
+
   + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
+  
 - Nonparametric Scene Parsing via Label Transfer
+
   + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
+  
 - Conditional Random Fields as Recurrent Neural Networks
+
   + https://github.com/torrvision/crfasrnn
+  
 - Graphical Models / Conditional Random Field Toolbox
+
   + http://users.cecs.anu.edu.au/~jdomke/JGMT/
+  
 - Recurrent Instance Segmentation
+
   + https://github.com/bernard24/RIS
 
 - SegNet
+
   + http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
   + https://github.com/alexgkendall/caffe-segnet
   + https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
 
 - DeepLab
+
   + https://bitbucket.org/deeplab/deeplab-public/
   + http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
   + https://github.com/cdmh/deeplab-public
@@ -81,12 +106,8 @@ List of resources for semantic segmentation.
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
 
-- Caffe
-
-  + https://github.com/fyu/dilation
-  + https://github.com/xiaolonw/nips14_loc_seg_testonly
-
 - Efficient and Robust Networks for Semantic Segmentation 
+
   + http://lmb.informatik.uni-freiburg.de/resources/software.php
   + https://bitbucket.org/aquariusjay/deeplab-public-ver2
   + https://github.com/hszhao/PSPNet
@@ -96,10 +117,17 @@ List of resources for semantic segmentation.
   + https://github.com/voidrank/FastMask
   + https://github.com/TheLegendAli/DeepLab-Context
 
+- Caffe
+
+  + https://github.com/fyu/dilation
+  + https://github.com/xiaolonw/nips14_loc_seg_testonly
+  
 - Keras
+
   + https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
   + https://github.com/nicolov/segmentation_keras
   + https://github.com/yihui-he/u-net
+  + https://github.com/k3nt0w/FCN_via_keras
 
 - TensorFlow
 
