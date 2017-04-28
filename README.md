@@ -3,6 +3,8 @@
 ## Networks by architecture
 - U-Net
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation
+	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation
 - SegNet
 	+ http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 	+ https://github.com/alexgkendall/caffe-segnet
