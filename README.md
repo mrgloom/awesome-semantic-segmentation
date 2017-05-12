@@ -28,6 +28,7 @@
 	+ https://github.com/fyu/dilation
 	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
 	+ https://github.com/naibaf7/caffe_neural_tool
+	+ http://cvlab.postech.ac.kr/research/deconvnet/
   
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
@@ -51,11 +52,6 @@
 
 - MXNet
 	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
-	+ https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
-	+ https://github.com/tpeng/python-crfsuite
-	+ https://github.com/chokkan/crfsuite
-	+ https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
-	+ http://cvlab.postech.ac.kr/research/deconvnet/
 	+ https://github.com/msracver/FCIS
 
 ## Papers and Code:
@@ -100,6 +96,10 @@
   + https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
   + https://github.com/jliemansifry/super-simple-semantic-segmentation
   + http://users.cecs.anu.edu.au/~jdomke/JGMT/
+  + https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
+  + https://github.com/tpeng/python-crfsuite
+  + https://github.com/chokkan/crfsuite
+  + https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
 
 ## RNN
 
