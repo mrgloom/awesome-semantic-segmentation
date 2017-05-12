@@ -11,6 +11,7 @@
 	+ https://github.com/alexgkendall/caffe-segnet
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
 	+ https://github.com/preddy5/segnet
+	+ https://github.com/imlab-uiip/keras-segnet
 - DeepLab
 	+ https://bitbucket.org/deeplab/deeplab-public/
 	+ https://github.com/cdmh/deeplab-public
