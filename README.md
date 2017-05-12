@@ -10,6 +10,7 @@
 	+ http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 	+ https://github.com/alexgkendall/caffe-segnet
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
+	+ https://github.com/preddy5/segnet
 - DeepLab
 	+ https://bitbucket.org/deeplab/deeplab-public/
 	+ https://github.com/cdmh/deeplab-public
