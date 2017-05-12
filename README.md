@@ -24,12 +24,6 @@
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn
 
 ## Networks by framework
-- Caffe
-	+ https://github.com/fyu/dilation
-	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
-	+ https://github.com/naibaf7/caffe_neural_tool
-	+ http://cvlab.postech.ac.kr/research/deconvnet/
-  
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
 	+ https://github.com/nicolov/segmentation_keras
@@ -39,9 +33,12 @@
 - TensorFlow
 	+ https://github.com/DrSleep/tensorflow-deeplab-resnet
 	+ https://github.com/warmspringwinds/tf-image-segmentation
-
-- MatConvNet
-	+ https://github.com/guosheng/refinenet
+	
+- Caffe
+	+ https://github.com/fyu/dilation
+	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
+	+ https://github.com/naibaf7/caffe_neural_tool
+	+ http://cvlab.postech.ac.kr/research/deconvnet/
 	
 - torch
 	+ https://github.com/facebookresearch/deepmask
@@ -49,6 +46,9 @@
 	+ https://github.com/fedor-chervinskii/segnet-torch
 	+ https://github.com/erogol/seg-torch
 	+ https://github.com/phillipi/pix2pix
+	
+- MatConvNet
+	+ https://github.com/guosheng/refinenet
 
 - MXNet
 	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
