@@ -49,13 +49,14 @@
 	+ https://github.com/erogol/seg-torch
 	+ https://github.com/phillipi/pix2pix
 
-- mxnet fcn-xs
+- MXNet
 	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
 	+ https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
 	+ https://github.com/tpeng/python-crfsuite
 	+ https://github.com/chokkan/crfsuite
 	+ https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
 	+ http://cvlab.postech.ac.kr/research/deconvnet/
+	+ https://github.com/msracver/FCIS
 
 ## Papers and Code:
 
