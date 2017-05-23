@@ -115,7 +115,6 @@
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
   
 - U-Net: Convolutional Networks for Biomedical Image Segmentation
-
   + http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
   + https://github.com/dmlc/mxnet/issues/1514
   + https://github.com/orobix/retina-unet
@@ -123,6 +122,7 @@
   + https://github.com/yulequan/melanoma-recognition
   + http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
   + https://github.com/junyanz/MCILBoost
+  + https://github.com/imlab-uiip/lung-segmentation-2d
   
 - Cascaded-FCN
   + https://github.com/IBBM/Cascaded-FCN
