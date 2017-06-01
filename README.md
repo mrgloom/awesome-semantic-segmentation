@@ -25,7 +25,7 @@
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn
 - ENet
- 	+ https://github.com/TimoSaemann/ENet
+ 	+ https://github.com/TimoSaemann/ENet [Caffe]
 
 ## Networks by framework
 - Keras
