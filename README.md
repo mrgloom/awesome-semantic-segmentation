@@ -20,10 +20,12 @@
 	+ https://github.com/TheLegendAli/DeepLab-Context
 	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
 	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
- - Fully-Convolutional Network
+- Fully-Convolutional Network
 	+ https://github.com/vlfeat/matconvnet-fcn
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn
+- ENet
+ 	+ https://github.com/TimoSaemann/ENet
 
 ## Networks by framework
 - Keras
