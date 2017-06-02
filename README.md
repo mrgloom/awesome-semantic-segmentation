@@ -26,6 +26,8 @@
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn
 - ENet
  	+ https://github.com/TimoSaemann/ENet [Caffe]
+- DenseNet
+	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 
 ## Networks by framework
 - Keras
