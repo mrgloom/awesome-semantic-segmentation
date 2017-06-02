@@ -28,6 +28,8 @@
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 - DenseNet
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
+- DilatedNet
+	+ https://github.com/nicolov/segmentation_keras [Keras]
 
 ## Networks by framework
 - Keras
