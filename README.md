@@ -117,6 +117,7 @@
   + https://github.com/fvisin/reseg
   + https://github.com/torrvision/crfasrnn
   + https://github.com/bernard24/RIS
+  + https://github.com/martinkersner/train-CRF-RNN
 
 ## Medical image segmentation:
 
