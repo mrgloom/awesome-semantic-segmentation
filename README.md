@@ -30,6 +30,9 @@
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 - DilatedNet
 	+ https://github.com/nicolov/segmentation_keras [Keras]
+- PixelNet
+	+ https://github.com/aayushbansal/PixelNet [Caffe]
+
 
 ## Networks by framework
 - Keras
