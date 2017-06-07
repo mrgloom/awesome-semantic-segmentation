@@ -157,6 +157,7 @@
   + https://github.com/lopuhin/kaggle-dstl
   + https://github.com/mitmul/ssai
   + https://github.com/mitmul/ssai-cnn
+  + https://github.com/azavea/raster-vision
 
 ## Video segmentation
 
