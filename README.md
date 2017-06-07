@@ -158,6 +158,9 @@
   + https://github.com/mitmul/ssai
   + https://github.com/mitmul/ssai-cnn
   + https://github.com/azavea/raster-vision
+  
+ - Data:
+  + https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 
 ## Video segmentation
 
