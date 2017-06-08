@@ -142,6 +142,7 @@
   
 - Keras
   + https://github.com/jocicmarko/ultrasound-nerve-segmentation
+  + https://github.com/EdwardTyantov/ultrasound-nerve-segmentation
     
 - Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
   + https://github.com/ecobost/cnn4brca
