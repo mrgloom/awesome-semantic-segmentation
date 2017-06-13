@@ -191,6 +191,8 @@
   + [MSRC Dataset](http://research.microsoft.com/en-us/projects/objectclassrecognition/)
   + [LITS Liver Tumor Segmentation Dataset](https://competitions.codalab.org/competitions/15595)
   + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
+  + [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
+  + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
 
 
 ## Results:
