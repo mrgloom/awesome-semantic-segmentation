@@ -156,7 +156,7 @@
 	  - http://people.idsia.ch/~juergen/nips2012.pdf
 	  
  - Data:
-  + https://luna16.grand-challenge.org/
+   - https://luna16.grand-challenge.org/
   
 ## Satellite images segmentation
 
