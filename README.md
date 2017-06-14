@@ -41,6 +41,7 @@
 	+ https://github.com/nicolov/segmentation_keras
 	+ https://github.com/yihui-he/u-net
 	+ https://github.com/k3nt0w/FCN_via_keras
+	+ https://github.com/abbypa/NNProject_DeepMask
 
 - TensorFlow
 	+ https://github.com/DrSleep/tensorflow-deeplab-resnet
