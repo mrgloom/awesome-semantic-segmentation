@@ -154,6 +154,9 @@
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
   + Sliding window approach
 	  - http://people.idsia.ch/~juergen/nips2012.pdf
+	  
+ - Data:
+  + https://luna16.grand-challenge.org/
   
 ## Satellite images segmentation
 
