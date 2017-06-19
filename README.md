@@ -34,7 +34,7 @@
 - PixelNet
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
 - ICNet
-	+https://github.com/hszhao/ICNet [Caffe]
+	+ https://github.com/hszhao/ICNet [Caffe]
 
 
 ## Networks by framework
