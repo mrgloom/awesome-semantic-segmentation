@@ -33,6 +33,8 @@
 	+ https://github.com/nicolov/segmentation_keras [Keras]
 - PixelNet
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
+- ICNet
+	+https://github.com/hszhao/ICNet [Caffe]
 
 
 ## Networks by framework
