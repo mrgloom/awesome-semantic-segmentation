@@ -140,6 +140,7 @@
   + http://www.andrewjanowczyk.com/use-case-1-nuclei-segmentation/
   + https://github.com/junyanz/MCILBoost
   + https://github.com/imlab-uiip/lung-segmentation-2d
+  + https://github.com/scottykwok/cervix-roi-segmentation-by-unet
   
 - Cascaded-FCN
   + https://github.com/IBBM/Cascaded-FCN
