@@ -25,6 +25,7 @@
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn [Tensorflow]
 	+ https://github.com/aurora95/Keras-FCN [Keras]
+	+ https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras [Keras]
 - ENet
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 - DenseNet
