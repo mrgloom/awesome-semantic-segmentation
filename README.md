@@ -144,6 +144,7 @@
   + https://github.com/junyanz/MCILBoost
   + https://github.com/imlab-uiip/lung-segmentation-2d
   + https://github.com/scottykwok/cervix-roi-segmentation-by-unet
+  + https://github.com/WeidiXie/cell_counting_v2
   
 - Cascaded-FCN
   + https://github.com/IBBM/Cascaded-FCN
