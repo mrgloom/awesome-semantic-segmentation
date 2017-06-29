@@ -10,10 +10,11 @@
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model
 - SegNet
 	+ http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
-	+ https://github.com/alexgkendall/caffe-segnet
-	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu
+	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
+	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
 	+ https://github.com/preddy5/segnet
-	+ https://github.com/imlab-uiip/keras-segnet
+	+ https://github.com/imlab-uiip/keras-segnet [Keras]
+	+ https://github.com/andreaazzini/segnet [Tensorflow]
 - DeepLab
 	+ https://bitbucket.org/deeplab/deeplab-public/
 	+ https://github.com/cdmh/deeplab-public
