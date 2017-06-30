@@ -130,6 +130,7 @@
   + https://github.com/bernard24/RIS
   + https://github.com/martinkersner/train-CRF-RNN
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
+  + https://github.com/renmengye/rec-attend-public [Tensorflow]
 
 ## Medical image segmentation:
 
