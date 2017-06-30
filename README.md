@@ -29,6 +29,7 @@
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn [Tensorflow]
 	+ https://github.com/aurora95/Keras-FCN [Keras]
 	+ https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras [Keras]
+	+ https://github.com/shekkizh/FCN.tensorflow [Tensorflow]
 - ENet
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 - DenseNet
