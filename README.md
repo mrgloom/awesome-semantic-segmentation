@@ -3,16 +3,15 @@
 # Awesome Semantic Segmentation
 
 ## Networks by architecture
-- U-Net
-	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
-	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation
-	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation
-	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model
+- U-Net [https://arxiv.org/pdf/1505.04597.pdf]
+	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
+	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
+	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
+	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
 - SegNet
-	+ http://mi.eng.cam.ac.uk/projects/segnet/tutorial.html
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
-	+ https://github.com/preddy5/segnet
+	+ https://github.com/preddy5/segnet [Keras]
 	+ https://github.com/imlab-uiip/keras-segnet [Keras]
 	+ https://github.com/andreaazzini/segnet [Tensorflow]
 - DeepLab
@@ -21,8 +20,7 @@
 	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2
 	+ http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
 	+ https://github.com/TheLegendAli/DeepLab-Context
-	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
-	+ https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
 - Fully-Convolutional Network (FCN)
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
@@ -232,4 +230,6 @@
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
   + http://www.andrewjanowczyk.com/efficient-pixel-wise-deep-learning-on-large-images/
   + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
+  + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
+  + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
 
