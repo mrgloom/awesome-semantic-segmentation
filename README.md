@@ -188,6 +188,7 @@
 
   + https://github.com/MarvinTeichmann/MultiNet
   + https://github.com/MarvinTeichmann/KittiSeg
+  + https://github.com/vxy10/p5_VehicleDetection_Unet [Keras]
 
 ## Annotation Tools:
 
