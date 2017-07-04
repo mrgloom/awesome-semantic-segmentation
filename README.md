@@ -20,7 +20,7 @@
 	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
 	+ https://github.com/TheLegendAli/DeepLab-Context [Caffe]
 	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
-- Fully-Convolutional Network (FCN)
+- Fully-Convolutional Network (FCN) [https://arxiv.org/pdf/1605.06211.pdf]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
 	+ https://github.com/MarvinTeichmann/tensorflow-fcn [Tensorflow]
