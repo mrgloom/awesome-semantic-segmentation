@@ -32,7 +32,7 @@
 - DenseNet [https://arxiv.org/pdf/1608.06993.pdf]
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 - Tiramisu [https://arxiv.org/pdf/1611.09326.pdf]
-	https://github.com/0bserver07/One-Hundred-Layers-Tiramisu [Keras]
+	+ https://github.com/0bserver07/One-Hundred-Layers-Tiramisu [Keras]
 - DilatedNet [https://arxiv.org/pdf/1511.07122.pdf]
 	+ https://github.com/nicolov/segmentation_keras [Keras]
 - PixelNet [https://arxiv.org/pdf/1609.06694.pdf]
