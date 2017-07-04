@@ -8,18 +8,17 @@
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
-- SegNet
+- SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
 	+ https://github.com/preddy5/segnet [Keras]
 	+ https://github.com/imlab-uiip/keras-segnet [Keras]
 	+ https://github.com/andreaazzini/segnet [Tensorflow]
-- DeepLab
-	+ https://bitbucket.org/deeplab/deeplab-public/
-	+ https://github.com/cdmh/deeplab-public
-	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2
-	+ http://ccvl.stat.ucla.edu/software/deeplab/deeplab/
-	+ https://github.com/TheLegendAli/DeepLab-Context
+- DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
+	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
+	+ https://github.com/cdmh/deeplab-public [Caffe]
+	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
+	+ https://github.com/TheLegendAli/DeepLab-Context [Caffe]
 	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
 - Fully-Convolutional Network (FCN)
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
