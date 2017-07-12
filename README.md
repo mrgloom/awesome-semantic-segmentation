@@ -40,6 +40,8 @@
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
 - ICNet [https://arxiv.org/pdf/1704.08545.pdf]
 	+ https://github.com/hszhao/ICNet [Caffe]
+- FastMaskRCNN [https://arxiv.org/pdf/1703.06870.pdf]
+	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
 
 
 ## Networks by framework
