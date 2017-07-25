@@ -215,6 +215,7 @@
   + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
   + [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
   + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
+  + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
 
 
 ## Results:
