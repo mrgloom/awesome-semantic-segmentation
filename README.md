@@ -227,6 +227,7 @@
 
 
 ## To look at
+  + https://github.com/warmspringwinds/tensorflow_notes
   + https://github.com/meetshah1995/pytorch-semseg
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
   + https://github.com/desimone/segmentation-models
