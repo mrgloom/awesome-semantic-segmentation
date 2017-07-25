@@ -14,6 +14,7 @@
 	+ https://github.com/preddy5/segnet [Keras]
 	+ https://github.com/imlab-uiip/keras-segnet [Keras]
 	+ https://github.com/andreaazzini/segnet [Tensorflow]
+	+ https://github.com/fedor-chervinskii/segnet-torch [Torch]
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
 	+ https://github.com/cdmh/deeplab-public [Caffe]
