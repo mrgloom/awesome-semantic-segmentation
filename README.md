@@ -216,7 +216,7 @@
   + [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
   + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
   + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
-  + [Silenko_person database](https://github.com/Maxfashko/CamVid)
+  + [Silenko person database](https://github.com/Maxfashko/CamVid)
 
 
 ## Results:
