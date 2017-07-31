@@ -48,6 +48,8 @@
 - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
 	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
+- ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
+	+ https://github.com/Eromera/erfnet [Torch]
 
 
 ## Networks by framework
