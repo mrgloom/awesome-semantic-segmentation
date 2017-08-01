@@ -8,6 +8,7 @@
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
+	+ https://github.com/yihui-he/u-net [Keras]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -51,13 +52,15 @@
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
 	+ https://github.com/Eromera/erfnet [Torch]
+- DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
+	+ https://github.com/facebookresearch/deepmask [Torch]
+- RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
+	+ https://github.com/guosheng/refinenet [MatConvNet]
 
 
 ## Networks by framework (Older list)
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
-	+ https://github.com/nicolov/segmentation_keras
-	+ https://github.com/yihui-he/u-net
 	+ https://github.com/abbypa/NNProject_DeepMask
 
 - TensorFlow
@@ -70,13 +73,9 @@
 	+ http://cvlab.postech.ac.kr/research/deconvnet/
 	
 - torch
-	+ https://github.com/facebookresearch/deepmask
 	+ https://github.com/erogol/seg-torch
 	+ https://github.com/phillipi/pix2pix
 	
-- MatConvNet
-	+ https://github.com/guosheng/refinenet
-
 - MXNet
 	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
 	+ https://github.com/msracver/FCIS
