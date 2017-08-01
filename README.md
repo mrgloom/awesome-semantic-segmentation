@@ -21,6 +21,7 @@
 	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
 	+ https://github.com/TheLegendAli/DeepLab-Context [Caffe]
 	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
+	+ https://github.com/DrSleep/tensorflow-deeplab-resnet [Tensorflow]
 - Fully-Convolutional Network (FCN) [https://arxiv.org/pdf/1605.06211.pdf]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
@@ -52,7 +53,7 @@
 	+ https://github.com/Eromera/erfnet [Torch]
 
 
-## Networks by framework
+## Networks by framework (Older list)
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
 	+ https://github.com/nicolov/segmentation_keras
@@ -60,7 +61,6 @@
 	+ https://github.com/abbypa/NNProject_DeepMask
 
 - TensorFlow
-	+ https://github.com/DrSleep/tensorflow-deeplab-resnet
 	+ https://github.com/warmspringwinds/tf-image-segmentation
 	
 - Caffe
