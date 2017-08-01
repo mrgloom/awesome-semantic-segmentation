@@ -234,6 +234,7 @@
 
 
 ## To look at
+  + https://github.com/fchollet/keras/issues/6538
   + https://github.com/warmspringwinds/tensorflow_notes
   + https://github.com/meetshah1995/pytorch-semseg
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
