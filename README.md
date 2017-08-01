@@ -204,7 +204,12 @@
   + https://github.com/CSAILVision/LabelMeAnnotationTool
   + https://github.com/seanbell/opensurfaces-segmentation-ui
   + https://github.com/lzx1413/labelImgPlus
-	
+
+## Loss functions
+ + Dice coefficient
+ + Jaccard loss
+ + sigmoid + binary crossentropy
+ + softmax + categorical crossentropy
 	
 ## Datasets:
 
