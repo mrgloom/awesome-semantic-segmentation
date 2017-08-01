@@ -56,6 +56,8 @@
 	+ https://github.com/facebookresearch/deepmask [Torch]
 - RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
 	+ https://github.com/guosheng/refinenet [MatConvNet]
+- PSPNet [https://arxiv.org/pdf/1612.01105.pdf]
+	+ https://github.com/hszhao/PSPNet [Caffe]
 
 
 ## Networks by framework (Older list)
@@ -108,7 +110,6 @@
 - Other
   + https://github.com/cvjena/cn24
   + http://lmb.informatik.uni-freiburg.de/resources/software.php
-  + https://github.com/hszhao/PSPNet
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
   + https://github.com/daijifeng001/MNC
   + https://github.com/voidrank/FastMask
