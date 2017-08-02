@@ -59,6 +59,9 @@
 	+ https://github.com/guosheng/refinenet [MatConvNet]
 - PSPNet [https://arxiv.org/pdf/1612.01105.pdf]
 	+ https://github.com/hszhao/PSPNet [Caffe]
+- CRFasRNN 
+        + https://github.com/torrvision/crfasrnn [Caffe]
+	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
 
 
 ## Networks by framework (Older list)
@@ -134,7 +137,6 @@
 ## RNN
 
   + https://github.com/fvisin/reseg
-  + https://github.com/torrvision/crfasrnn
   + https://github.com/bernard24/RIS
   + https://github.com/martinkersner/train-CRF-RNN
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
