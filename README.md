@@ -63,7 +63,9 @@
         + https://github.com/torrvision/crfasrnn [Caffe]
 	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
 - Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
-	https://github.com/fyu/dilation [Caffe]
+	+ https://github.com/fyu/dilation [Caffe]
+- FCIS [https://arxiv.org/pdf/1611.07709.pdf]
+	+ https://github.com/msracver/FCIS [MxNet]
 
 ## Networks by framework (Older list)
 - Keras
@@ -74,7 +76,6 @@
 	+ https://github.com/warmspringwinds/tf-image-segmentation
 	
 - Caffe
-	+ https://github.com/fyu/dilation
 	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
 	+ https://github.com/naibaf7/caffe_neural_tool
 	+ http://cvlab.postech.ac.kr/research/deconvnet/
@@ -85,7 +86,6 @@
 	
 - MXNet
 	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
-	+ https://github.com/msracver/FCIS
 	+ https://github.com/itijyou/ademxapp
 
 ## Papers and Code (Older list)
