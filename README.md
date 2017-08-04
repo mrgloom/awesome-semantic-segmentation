@@ -246,6 +246,7 @@
   + https://github.com/desimone/segmentation-models
   + https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
   + https://github.com/nightrome/really-awesome-semantic-segmentation
+  + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
 
 
 ## Blog posts, other:
