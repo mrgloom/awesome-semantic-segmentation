@@ -208,6 +208,7 @@
   + https://github.com/CSAILVision/LabelMeAnnotationTool
   + https://github.com/seanbell/opensurfaces-segmentation-ui
   + https://github.com/lzx1413/labelImgPlus
+  + https://github.com/wkentaro/labelme
 
 ## Loss functions
  + Dice coefficient
