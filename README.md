@@ -247,6 +247,7 @@
   + https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
   + https://github.com/nightrome/really-awesome-semantic-segmentation
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
+  + http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/
 
 
 ## Blog posts, other:
