@@ -230,6 +230,7 @@
   + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
   + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
   + [Silenko person database](https://github.com/Maxfashko/CamVid)
+  + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/)
 
 
 ## Results:
