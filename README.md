@@ -175,6 +175,7 @@
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
   + Sliding window approach
 	  - http://people.idsia.ch/~juergen/nips2012.pdf
+  + https://github.com/albarqouni/Deep-Learning-for-Medical-Applications#segmentation
 	  
  - Data:
    - https://luna16.grand-challenge.org/
