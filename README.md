@@ -32,6 +32,7 @@
 	+ https://github.com/mzaradzki/neuralnets/tree/master/vgg_segmentation_keras [Keras]
 	+ https://github.com/k3nt0w/FCN_via_keras [Keras]
 	+ https://github.com/shekkizh/FCN.tensorflow [Tensorflow]
+	+ https://github.com/seewalker/tf-pixelwise [Tensorflow]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
