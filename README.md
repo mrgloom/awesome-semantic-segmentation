@@ -9,6 +9,7 @@
 	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
 	+ https://github.com/yihui-he/u-net [Keras]
+	+ https://github.com/jakeret/tf_unet [Tensorflow]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
