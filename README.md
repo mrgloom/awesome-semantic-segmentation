@@ -253,6 +253,7 @@
   + https://github.com/nightrome/really-awesome-semantic-segmentation
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
   + http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/
+  + https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation
 
 
 ## Blog posts, other:
