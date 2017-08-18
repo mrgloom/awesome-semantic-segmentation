@@ -170,6 +170,7 @@
   + https://github.com/jocicmarko/ultrasound-nerve-segmentation
   + https://github.com/EdwardTyantov/ultrasound-nerve-segmentation
   + https://github.com/intact-project/ild-cnn
+  + https://github.com/scottykwok/cervix-roi-segmentation-by-unet
   
 - Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
   + https://github.com/ecobost/cnn4brca
