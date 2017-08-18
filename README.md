@@ -235,6 +235,7 @@
   + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
   + [Silenko person database](https://github.com/Maxfashko/CamVid)
   + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/)
+  + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
 
 
 ## Results:
