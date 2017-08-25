@@ -69,6 +69,11 @@
 	+ https://github.com/fyu/dilation [Caffe]
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
 	+ https://github.com/msracver/FCIS [MxNet]
+- DeconvNet [https://arxiv.org/pdf/1505.04366.pdf]
+	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
+	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
+	+ https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation [Tensorflow]
+	
 
 ## Networks by framework (Older list)
 - Keras
@@ -81,7 +86,6 @@
 - Caffe
 	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
 	+ https://github.com/naibaf7/caffe_neural_tool
-	+ http://cvlab.postech.ac.kr/research/deconvnet/
 	
 - torch
 	+ https://github.com/erogol/seg-torch
@@ -97,10 +101,6 @@
 
   + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
   + https://github.com/bharath272/sds_eccv2014
-  
-- Learning Deconvolution Network for Semantic Segmentation
-
-  + https://github.com/HyeonwooNoh/DeconvNet
   
 - Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
 
