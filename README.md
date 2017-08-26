@@ -215,6 +215,9 @@
   + https://github.com/lzx1413/labelImgPlus
   + https://github.com/wkentaro/labelme
 
+## Patch Merging Tools
+ + https://github.com/Vooban/Smoothly-Blend-Image-Patches
+
 ## Loss functions
  + Dice coefficient
  + Jaccard loss
