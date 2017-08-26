@@ -192,6 +192,8 @@
   + https://github.com/mitmul/ssai
   + https://github.com/mitmul/ssai-cnn
   + https://github.com/azavea/raster-vision
+  + https://github.com/ternaus/kaggle_dstl_submission
+  + https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
   
  - Data:
   	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
