@@ -11,6 +11,7 @@
 	+ https://github.com/yihui-he/u-net [Keras]
 	+ https://github.com/jakeret/tf_unet [Tensorflow]
 	+ https://github.com/DLTK/DLTK/blob/master/examples/Toy_segmentation/simple_dltk_unet.ipynb [Tensorflow]
+	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -20,6 +21,7 @@
 	+ https://github.com/fedor-chervinskii/segnet-torch [Torch]
 	+ https://github.com/0bserver07/Keras-SegNet-Basic [Keras]
 	+ https://github.com/tkuanlun350/Tensorflow-SegNet [Tensorflow]
+	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
 	+ https://github.com/cdmh/deeplab-public [Caffe]
@@ -36,6 +38,7 @@
 	+ https://github.com/k3nt0w/FCN_via_keras [Keras]
 	+ https://github.com/shekkizh/FCN.tensorflow [Tensorflow]
 	+ https://github.com/seewalker/tf-pixelwise [Tensorflow]
+	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -80,6 +83,7 @@
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
 	+ https://github.com/abbypa/NNProject_DeepMask
+	+ https://github.com/divamgupta/image-segmentation-keras 
 
 - TensorFlow
 	+ https://github.com/warmspringwinds/tf-image-segmentation
