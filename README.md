@@ -83,7 +83,6 @@
 - Keras
 	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
 	+ https://github.com/abbypa/NNProject_DeepMask
-	+ https://github.com/divamgupta/image-segmentation-keras 
 
 - TensorFlow
 	+ https://github.com/warmspringwinds/tf-image-segmentation
