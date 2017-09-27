@@ -77,6 +77,8 @@
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
 	+ https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation [Tensorflow]
+- MNC [https://arxiv.org/pdf/1512.04412.pdf]
+	+ + https://github.com/daijifeng001/MNC [Caffe]
 	
 
 ## Networks by framework (Older list)
@@ -123,7 +125,6 @@
   + https://github.com/cvjena/cn24
   + http://lmb.informatik.uni-freiburg.de/resources/software.php
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
-  + https://github.com/daijifeng001/MNC
   + https://github.com/voidrank/FastMask
   + http://jamie.shotton.org/work/code.html 
   + https://github.com/amueller/textonboost
