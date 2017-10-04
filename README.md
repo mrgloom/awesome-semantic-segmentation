@@ -79,7 +79,9 @@
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
 	+ https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation [Tensorflow]
 - MNC [https://arxiv.org/pdf/1512.04412.pdf]
-	+ + https://github.com/daijifeng001/MNC [Caffe]
+	+ https://github.com/daijifeng001/MNC [Caffe]
+- FRRN [https://arxiv.org/pdf/1611.08323.pdf]
+	+ https://github.com/TobyPDE/FRRN [Lasagne]
 	
 
 ## Networks by framework (Older list)
