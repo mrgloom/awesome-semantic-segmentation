@@ -168,6 +168,7 @@
   + https://github.com/imlab-uiip/lung-segmentation-2d
   + https://github.com/scottykwok/cervix-roi-segmentation-by-unet
   + https://github.com/WeidiXie/cell_counting_v2
+  + https://github.com/yandexdataschool/YSDA_deeplearning17/blob/master/Seminar6/Seminar%206%20-%20segmentation.ipynb
   
 - Cascaded-FCN
   + https://github.com/IBBM/Cascaded-FCN
