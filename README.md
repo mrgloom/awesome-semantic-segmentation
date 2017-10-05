@@ -200,6 +200,7 @@
 	  
  - Data:
    - https://luna16.grand-challenge.org/
+   - https://camelyon16.grand-challenge.org/
   
 ## Satellite images segmentation
 
