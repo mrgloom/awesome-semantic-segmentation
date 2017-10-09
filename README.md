@@ -91,7 +91,30 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-	
+
+## Datasets:
+
+  + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
+  + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
+  + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
+  + [Microsoft COCO dataset](http://mscoco.org/)
+  + [MSRC Dataset](http://research.microsoft.com/en-us/projects/objectclassrecognition/)
+  + [LITS Liver Tumor Segmentation Dataset](https://competitions.codalab.org/competitions/15595)
+  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
+  + [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
+  + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
+  + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
+  + [Silenko person database](https://github.com/Maxfashko/CamVid)
+  + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas)
+  + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
+  + [MIT Scene Parsing Benchmark](http://sceneparsing.csail.mit.edu/)
+
+
+## Results:
+
+  + [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
+  + [Cityscapes](https://www.cityscapes-dataset.com/benchmarks/)
+  + [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
 
 ## Networks by framework (Older list)
 - Keras
@@ -233,37 +256,7 @@
   + https://github.com/seanbell/opensurfaces-segmentation-ui
   + https://github.com/lzx1413/labelImgPlus
   + https://github.com/wkentaro/labelme
-
-## Loss functions
- + Dice coefficient
- + Jaccard loss
- + sigmoid + binary crossentropy
- + softmax + categorical crossentropy
 	
-## Datasets:
-
-  + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
-  + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
-  + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
-  + [Microsoft COCO dataset](http://mscoco.org/)
-  + [MSRC Dataset](http://research.microsoft.com/en-us/projects/objectclassrecognition/)
-  + [LITS Liver Tumor Segmentation Dataset](https://competitions.codalab.org/competitions/15595)
-  + [KITTI](http://www.cvlibs.net/datasets/kitti/eval_road.php)
-  + [Stanford background dataset](http://dags.stanford.edu/projects/scenedataset.html)
-  + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
-  + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
-  + [Silenko person database](https://github.com/Maxfashko/CamVid)
-  + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas)
-  + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
-
-
-## Results:
-
-  + [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
-  + [Cityscapes](https://www.cityscapes-dataset.com/benchmarks/)
-  + [VOC2012](http://host.robots.ox.ac.uk:8080/leaderboard/displaylb.php?challengeid=11&compid=6)
-
-
 ## To look at
   + https://github.com/fchollet/keras/issues/6538
   + https://github.com/warmspringwinds/tensorflow_notes
