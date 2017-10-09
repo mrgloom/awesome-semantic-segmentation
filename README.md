@@ -77,6 +77,7 @@
 - Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
 	+ https://github.com/fyu/dilation [Caffe]
 	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
+	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
 	+ https://github.com/msracver/FCIS [MxNet]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf]
