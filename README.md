@@ -24,7 +24,7 @@
 	+ https://github.com/tkuanlun350/Tensorflow-SegNet [Tensorflow]
 	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-	+ https://github.com/chainer/chainercv [Chainer]
+	+ https://github.com/chainer/chainercv/tree/master/examples/segnet [Chainer]
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
 	+ https://github.com/cdmh/deeplab-public [Caffe]
