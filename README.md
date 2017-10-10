@@ -42,6 +42,7 @@
 	+ https://github.com/seewalker/tf-pixelwise [Tensorflow]
 	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+	+ https://github.com/wkentaro/pytorch-fcn [PyTorch]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
