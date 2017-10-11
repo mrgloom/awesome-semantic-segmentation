@@ -3,7 +3,7 @@
 # Awesome Semantic Segmentation
 
 ## Networks by architecture
-* Semantic segmentation
+### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
@@ -93,7 +93,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-* Instance aware segmentation
+### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
 	+ https://github.com/msracver/FCIS [MxNet]
 - MNC [https://arxiv.org/pdf/1512.04412.pdf]
