@@ -68,8 +68,6 @@
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
 	+ https://github.com/Eromera/erfnet [Torch]
-- DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
-	+ https://github.com/facebookresearch/deepmask [Torch]
 - RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
 	+ https://github.com/guosheng/refinenet [MatConvNet]
 - PSPNet [https://arxiv.org/pdf/1612.01105.pdf]
@@ -98,6 +96,10 @@
 	+ https://github.com/msracver/FCIS [MxNet]
 - MNC [https://arxiv.org/pdf/1512.04412.pdf]
 	+ https://github.com/daijifeng001/MNC [Caffe]
+- DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
+	+ https://github.com/facebookresearch/deepmask [Torch]
+- SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
+	+ https://github.com/facebookresearch/deepmask [Torch]
 	
 ## Datasets:
 
