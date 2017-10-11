@@ -63,9 +63,6 @@
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
 - ICNet [https://arxiv.org/pdf/1704.08545.pdf]
 	+ https://github.com/hszhao/ICNet [Caffe]
-- Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
-	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
-	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
 	+ https://github.com/Eromera/erfnet [Torch]
 - RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
@@ -100,6 +97,9 @@
 	+ https://github.com/facebookresearch/deepmask [Torch]
 - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
 	+ https://github.com/facebookresearch/deepmask [Torch]
+- Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
+	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
+	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 	
 ## Datasets:
 
