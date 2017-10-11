@@ -46,6 +46,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/wkentaro/pytorch-fcn [PyTorch]
 	+ https://github.com/wkentaro/fcn [Chainer]
+	+ https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs [MxNet]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -142,7 +143,6 @@
 	+ https://github.com/phillipi/pix2pix
 	
 - MXNet
-	+ https://github.com/tornadomeet/mxnet/tree/seg/example/fcn-xs
 	+ https://github.com/itijyou/ademxapp
 
 ## Papers and Code (Older list)
