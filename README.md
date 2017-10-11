@@ -82,14 +82,10 @@
 	+ https://github.com/fyu/dilation [Caffe]
 	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
 	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
-- FCIS [https://arxiv.org/pdf/1611.07709.pdf]
-	+ https://github.com/msracver/FCIS [MxNet]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
 	+ https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation [Tensorflow]
-- MNC [https://arxiv.org/pdf/1512.04412.pdf]
-	+ https://github.com/daijifeng001/MNC [Caffe]
 - FRRN [https://arxiv.org/pdf/1611.08323.pdf]
 	+ https://github.com/TobyPDE/FRRN [Lasagne]
 - GCN [https://arxiv.org/pdf/1703.02719.pdf]
@@ -97,6 +93,12 @@
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 
+## Instance aware
+- FCIS [https://arxiv.org/pdf/1611.07709.pdf]
+	+ https://github.com/msracver/FCIS [MxNet]
+- MNC [https://arxiv.org/pdf/1512.04412.pdf]
+	+ https://github.com/daijifeng001/MNC [Caffe]
+	
 ## Datasets:
 
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
