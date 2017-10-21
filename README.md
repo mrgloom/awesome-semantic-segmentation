@@ -49,6 +49,7 @@
 	+ https://github.com/wkentaro/fcn [Chainer]
 	+ https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs [MxNet]
 	+ https://github.com/muyang0320/tf-fcn [Tensorflow]
+	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -90,8 +91,10 @@
 	+ https://github.com/TobyPDE/FRRN [Lasagne]
 - GCN [https://arxiv.org/pdf/1703.02719.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
 	+ https://github.com/msracver/FCIS [MxNet]
