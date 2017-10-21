@@ -249,6 +249,7 @@
   + https://github.com/mitmul/ssai
   + https://github.com/mitmul/ssai-cnn
   + https://github.com/azavea/raster-vision
+  + https://github.com/nshaud/DeepNetsForEO
   
  - Data:
   	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
