@@ -50,6 +50,7 @@
 	+ https://github.com/apache/incubator-mxnet/tree/master/example/fcn-xs [MxNet]
 	+ https://github.com/muyang0320/tf-fcn [Tensorflow]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
+	+ https://github.com/Kaixhin/FCN-semantic-segmentation [PyTorch]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
