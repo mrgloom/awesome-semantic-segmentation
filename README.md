@@ -97,6 +97,8 @@
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 - Segaware [https://arxiv.org/pdf/1708.04607.pdf]
 	+ https://github.com/aharley/segaware [Caffe]
+- Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
+	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
