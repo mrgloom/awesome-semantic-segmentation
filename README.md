@@ -76,6 +76,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/mitmul/chainer-pspnet [Chainer]
 	+ https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow [Keras/Tensorflow]
+	+ https://github.com/pudae/tensorflow-pspnet [Tensorflow]
 - CRFasRNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
 	+ https://github.com/torrvision/crfasrnn [Caffe]
 	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
