@@ -34,6 +34,7 @@
 	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
 	+ https://github.com/DrSleep/tensorflow-deeplab-resnet [Tensorflow]
 	+ https://github.com/muyang0320/tensorflow-deeplab-resnet-crf [TensorFlow]
+	+ https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
 - FCN [https://arxiv.org/pdf/1605.06211.pdf]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
