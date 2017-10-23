@@ -96,7 +96,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 - Segaware [https://arxiv.org/pdf/1708.04607.pdf]
-	+ https://github.com/aharley/segaware
+	+ https://github.com/aharley/segaware [Caffe]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
