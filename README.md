@@ -267,6 +267,7 @@
   + https://github.com/MarvinTeichmann/KittiSeg
   + https://github.com/vxy10/p5_VehicleDetection_Unet [Keras]
   + https://github.com/ndrplz/self-driving-car
+  + https://github.com/mvirgo/MLND-Capstone
 
 ## Annotation Tools:
 
