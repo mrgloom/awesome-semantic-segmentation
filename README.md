@@ -117,7 +117,22 @@
 	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 	+ https://github.com/TuSimple/mx-maskrcnn [MxNet]
-	
+- RIS [https://arxiv.org/pdf/1511.08250.pdf]
+  + https://github.com/bernard24/RIS [Torch]
+
+## RNN
+- ReNet [https://arxiv.org/pdf/1505.00393.pdf]
+  + https://github.com/fvisin/reseg [Lasagne]
+- ReSeg [https://arxiv.org/pdf/1511.07053.pdf]
+  + https://github.com/fvisin/reseg [Lasagne]
+- RIS [https://arxiv.org/pdf/1511.08250.pdf]
+  + https://github.com/bernard24/RIS [Torch]
+- CRF-RNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
+  + https://github.com/martinkersner/train-CRF-RNN [Caffe]
+  + https://github.com/torrvision/crfasrnn [Caffe]
+  + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
+  + https://github.com/renmengye/rec-attend-public [Tensorflow]
+  
 ## Datasets:
 
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
@@ -202,14 +217,6 @@
   + https://github.com/chokkan/crfsuite
   + https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
   + https://github.com/lucasb-eyer/pydensecrf
-
-## RNN
-
-  + https://github.com/fvisin/reseg
-  + https://github.com/bernard24/RIS
-  + https://github.com/martinkersner/train-CRF-RNN [Caffe]
-  + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
-  + https://github.com/renmengye/rec-attend-public [Tensorflow]
 
 ## Medical image segmentation:
 
