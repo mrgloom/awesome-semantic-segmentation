@@ -116,6 +116,7 @@
 - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
 	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
+	+ https://github.com/TuSimple/mx-maskrcnn [MxNet]
 	
 ## Datasets:
 
