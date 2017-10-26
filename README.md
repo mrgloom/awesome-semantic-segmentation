@@ -261,6 +261,7 @@
  - Data:
    - https://luna16.grand-challenge.org/
    - https://camelyon16.grand-challenge.org/
+   - https://github.com/beamandrew/medical-data
   
 ## Satellite images segmentation
 
