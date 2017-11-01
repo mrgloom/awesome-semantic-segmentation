@@ -152,6 +152,7 @@
   + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas)
   + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
   + [MIT Scene Parsing Benchmark](http://sceneparsing.csail.mit.edu/)
+  + [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org/#stuff-challenge2017)
 
 ## Results:
 
