@@ -120,6 +120,7 @@
 	+ https://github.com/CharlesShang/FastMaskRCNN [Tensorflow]
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 	+ https://github.com/TuSimple/mx-maskrcnn [MxNet]
+	+ https://github.com/matterport/Mask_RCNN [Keras]
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
 
