@@ -284,6 +284,7 @@
 ## Video segmentation
 
   + https://github.com/shelhamer/clockwork-fcn
+  + https://github.com/JingchunCheng/Seg-with-SPN
 
 ## Autonomous driving
 
