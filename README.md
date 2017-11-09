@@ -14,6 +14,7 @@
 	+ https://github.com/DLTK/DLTK/blob/master/examples/Toy_segmentation/simple_dltk_unet.ipynb [Tensorflow]
 	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
