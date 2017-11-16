@@ -125,6 +125,8 @@
 	+ https://github.com/matterport/Mask_RCNN [Keras]
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
+- FastMask [https://arxiv.org/pdf/1612.08843.pdf]
+  + https://github.com/voidrank/FastMask
 
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
@@ -210,7 +212,6 @@
   + https://github.com/cvjena/cn24
   + http://lmb.informatik.uni-freiburg.de/resources/software.php
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
-  + https://github.com/voidrank/FastMask
   + http://jamie.shotton.org/work/code.html 
   + https://github.com/amueller/textonboost
 
