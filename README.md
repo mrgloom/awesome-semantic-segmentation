@@ -126,7 +126,7 @@
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
 - FastMask [https://arxiv.org/pdf/1612.08843.pdf]
-  + https://github.com/voidrank/FastMask
+  + https://github.com/voidrank/FastMask [Caffe]
 
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
