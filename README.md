@@ -156,6 +156,7 @@
   + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
   + [MIT Scene Parsing Benchmark](http://sceneparsing.csail.mit.edu/)
   + [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org/#stuff-challenge2017)
+  + [ADE20K Dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
 
 ## Results:
 
