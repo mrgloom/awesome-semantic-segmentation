@@ -159,6 +159,7 @@
   + [MIT Scene Parsing Benchmark](http://sceneparsing.csail.mit.edu/)
   + [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org/#stuff-challenge2017)
   + [ADE20K Dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
+  + [INRIA Annotations for Graz-02](http://lear.inrialpes.fr/people/marszalek/data/ig02/)
 
 ## Results:
 
