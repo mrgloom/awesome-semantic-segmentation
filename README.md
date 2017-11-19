@@ -298,6 +298,7 @@
   + https://github.com/vxy10/p5_VehicleDetection_Unet [Keras]
   + https://github.com/ndrplz/self-driving-car
   + https://github.com/mvirgo/MLND-Capstone
+  + https://github.com/zhujun98/semantic_segmentation/tree/master/fcn8s_road
 
 ## Annotation Tools:
 
