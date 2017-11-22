@@ -86,9 +86,6 @@
 	+ https://github.com/mitmul/chainer-pspnet [Chainer]
 	+ https://github.com/Vladkryvoruchko/PSPNet-Keras-tensorflow [Keras/Tensorflow]
 	+ https://github.com/pudae/tensorflow-pspnet [Tensorflow]
-- CRFasRNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
-	+ https://github.com/torrvision/crfasrnn [Caffe]
-	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
 - Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
 	+ https://github.com/fyu/dilation [Caffe]
 	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
@@ -141,6 +138,9 @@
   + https://github.com/torrvision/crfasrnn [Caffe]
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
   + https://github.com/renmengye/rec-attend-public [Tensorflow]
+- CRFasRNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
+	+ https://github.com/torrvision/crfasrnn [Caffe]
+	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
   
 ## Datasets:
 
