@@ -138,9 +138,7 @@
   + https://github.com/torrvision/crfasrnn [Caffe]
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
   + https://github.com/renmengye/rec-attend-public [Tensorflow]
-- CRFasRNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
-	+ https://github.com/torrvision/crfasrnn [Caffe]
-	+ https://github.com/sadeepj/crfasrnn_keras [Keras]
+  + https://github.com/sadeepj/crfasrnn_keras [Keras]
   
 ## Datasets:
 
