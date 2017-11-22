@@ -16,8 +16,7 @@
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras]
 	+ https://github.com/orobix/retina-unet [Keras]
-	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm
-]
+	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
