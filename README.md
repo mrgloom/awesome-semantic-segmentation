@@ -153,13 +153,13 @@
   + [Pascal Context](http://www.cs.stanford.edu/~roozbeh/pascal-context/)
   + [Data from Games dataset](https://download.visinf.tu-darmstadt.de/data/from_games/)
   + [Human parsing dataset](https://github.com/lemondan/HumanParsing-Dataset)
-  + [Silenko person database](https://github.com/Maxfashko/CamVid)
   + [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas)
   + [Microsoft AirSim](https://github.com/Microsoft/AirSim)
   + [MIT Scene Parsing Benchmark](http://sceneparsing.csail.mit.edu/)
   + [COCO 2017 Stuff Segmentation Challenge](http://cocodataset.org/#stuff-challenge2017)
   + [ADE20K Dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/)
   + [INRIA Annotations for Graz-02](http://lear.inrialpes.fr/people/marszalek/data/ig02/)
+  + [Daimler dataset](http://www.gavrila.net/Datasets/Daimler_Pedestrian_Benchmark_D/daimler_pedestrian_benchmark_d.html)
 
 ## Results:
 
