@@ -127,6 +127,10 @@
 - FastMask [https://arxiv.org/pdf/1612.08843.pdf]
   + https://github.com/voidrank/FastMask [Caffe]
 
+### Weakly-supervised segmentation
+- SEC [https://arxiv.org/pdf/1603.06098.pdf]
+  + https://github.com/kolesman/SEC [Caffe]
+
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
   + https://github.com/fvisin/reseg [Lasagne]
