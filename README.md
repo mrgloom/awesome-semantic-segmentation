@@ -135,6 +135,7 @@
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
   + https://github.com/fvisin/reseg [Lasagne]
 - ReSeg [https://arxiv.org/pdf/1511.07053.pdf]
+  + https://github.com/Wizaron/reseg-pytorch [PyTorch]
   + https://github.com/fvisin/reseg [Lasagne]
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
