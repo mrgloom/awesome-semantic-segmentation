@@ -100,6 +100,8 @@
 - GCN [https://arxiv.org/pdf/1703.02719.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
+- LRR [https://arxiv.org/pdf/1605.02264.pdf]
+	+ https://github.com/golnazghiasi/LRR [Matconvnet]
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
@@ -107,8 +109,6 @@
 	+ https://github.com/aharley/segaware [Caffe]
 - Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
 	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
-- LRR [https://arxiv.org/pdf/1605.02264.pdf]
-	+ https://github.com/golnazghiasi/LRR [Matconvnet]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
