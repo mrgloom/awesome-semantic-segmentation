@@ -321,7 +321,6 @@
   + https://github.com/wkentaro/labelme
 	
 ## To look at
-  + https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-segmentation.md 
   + https://github.com/fchollet/keras/issues/6538
   + https://github.com/warmspringwinds/tensorflow_notes
   + https://github.com/meetshah1995/pytorch-semseg
