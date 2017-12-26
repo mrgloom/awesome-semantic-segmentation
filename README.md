@@ -107,6 +107,8 @@
 	+ https://github.com/aharley/segaware [Caffe]
 - Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
 	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
+- LRR [https://arxiv.org/pdf/1605.02264.pdf]
+	+ https://github.com/golnazghiasi/LRR [Matconvnet]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
