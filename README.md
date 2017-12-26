@@ -168,6 +168,7 @@
   + [ISBI Challenge: Segmentation of neuronal structures in EM stacks](http://brainiac2.mit.edu/isbi_challenge/)
   + [INRIA Annotations for Graz-02 (IG02)](https://lear.inrialpes.fr/people/marszalek/data/ig02/)
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
+  + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
 
 ## Results:
 
