@@ -105,6 +105,9 @@
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
+- MultiNet [https://arxiv.org/pdf/1612.07695.pdf]
+	+ https://github.com/MarvinTeichmann/MultiNet
+	+ https://github.com/MarvinTeichmann/KittiSeg
 - Segaware [https://arxiv.org/pdf/1708.04607.pdf]
 	+ https://github.com/aharley/segaware [Caffe]
 - Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
