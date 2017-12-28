@@ -78,6 +78,7 @@
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
 - ICNet [https://arxiv.org/pdf/1704.08545.pdf]
 	+ https://github.com/hszhao/ICNet [Caffe]
+	+ [https://github.com/ai-tor/Keras-ICNet [Keras]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
 	+ https://github.com/Eromera/erfnet [Torch]
 - RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
