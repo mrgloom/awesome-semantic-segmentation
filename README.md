@@ -19,6 +19,7 @@
 	+ https://github.com/orobix/retina-unet [Keras]
 	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
 	+ https://github.com/petrama/VGGSegmentation [Tensorflow]
+	+ https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
