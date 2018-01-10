@@ -135,6 +135,8 @@
   + https://github.com/bernard24/RIS [Torch]
 - FastMask [https://arxiv.org/pdf/1612.08843.pdf]
   + https://github.com/voidrank/FastMask [Caffe]
+- BlitzNet [https://arxiv.org/pdf/1708.02813.pdf]
+  + https://github.com/dvornikita/blitznet [Tensorflow]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
