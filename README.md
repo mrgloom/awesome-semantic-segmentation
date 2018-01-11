@@ -156,7 +156,10 @@
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
   + https://github.com/renmengye/rec-attend-public [Tensorflow]
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
-  
+ 
+## GANS
+https://github.com/NVIDIA/pix2pixHD
+
 ## Datasets:
 
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
