@@ -61,7 +61,7 @@
 	+ https://github.com/muyang0320/tf-fcn [Tensorflow]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
 	+ https://github.com/Kaixhin/FCN-semantic-segmentation [PyTorch]
-        + https://github.com/petrama/VGGSegmentation [Tensorflow]
+	+ https://github.com/petrama/VGGSegmentation [Tensorflow]
 	+ https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
