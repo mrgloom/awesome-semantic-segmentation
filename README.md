@@ -2,6 +2,7 @@
 
 # Awesome Semantic Segmentation
 
+## Networks by architecture
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://github.com/zhixuhao/unet [Keras]
