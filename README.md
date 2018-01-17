@@ -161,6 +161,20 @@
 ## GANS
 https://github.com/NVIDIA/pix2pixHD
 
+## Graphical Models (CRF, MRF)
+  + https://github.com/cvlab-epfl/densecrf
+  + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
+  + http://www.philkr.net/home/densecrf
+  + http://graphics.stanford.edu/projects/densecrf/
+  + https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
+  + https://github.com/jliemansifry/super-simple-semantic-segmentation
+  + http://users.cecs.anu.edu.au/~jdomke/JGMT/
+  + https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
+  + https://github.com/tpeng/python-crfsuite
+  + https://github.com/chokkan/crfsuite
+  + https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
+  + https://github.com/lucasb-eyer/pydensecrf
+
 ## Datasets:
 
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
@@ -190,6 +204,15 @@ https://github.com/NVIDIA/pix2pixHD
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
   + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
 
+## Annotation Tools:
+
+  + https://github.com/AKSHAYUBHAT/ImageSegmentation
+  + https://github.com/kyamagu/js-segment-annotator
+  + https://github.com/CSAILVision/LabelMeAnnotationTool
+  + https://github.com/seanbell/opensurfaces-segmentation-ui
+  + https://github.com/lzx1413/labelImgPlus
+  + https://github.com/wkentaro/labelme
+
 ## Results:
 
   + [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
@@ -199,66 +222,10 @@ https://github.com/NVIDIA/pix2pixHD
 ## Metrics
   + https://github.com/martinkersner/py_img_seg_eval
   
-## Networks by framework (Older list)
-- Keras
-	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
-	+ https://github.com/abbypa/NNProject_DeepMask
-
-- TensorFlow
-	+ https://github.com/warmspringwinds/tf-image-segmentation
-	
-- Caffe
-	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
-	+ https://github.com/naibaf7/caffe_neural_tool
-	
-- torch
-	+ https://github.com/erogol/seg-torch
-	+ https://github.com/phillipi/pix2pix
-	
-- MXNet
-	+ https://github.com/itijyou/ademxapp
-
-## Papers and Code (Older list)
-
-- Simultaneous detection and segmentation
-
-  + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
-  + https://github.com/bharath272/sds_eccv2014
+## Other lists
+  + https://github.com/tangzhenyu/SemanticSegmentation_DL
+  + https://github.com/nightrome/really-awesome-semantic-segmentation
   
-- Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
-
-  + https://github.com/HyeonwooNoh/DecoupledNet
-  
-- Learning to Propose Objects
-
-  + http://vladlen.info/publications/learning-to-propose-objects/ 
-  + https://github.com/philkr/lpo
-  
-- Nonparametric Scene Parsing via Label Transfer
-
-  + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
-  
-- Other
-  + https://github.com/cvjena/cn24
-  + http://lmb.informatik.uni-freiburg.de/resources/software.php
-  + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
-  + http://jamie.shotton.org/work/code.html 
-  + https://github.com/amueller/textonboost
-
-## Graphical Models (CRF, MRF)
-  + https://github.com/cvlab-epfl/densecrf
-  + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
-  + http://www.philkr.net/home/densecrf
-  + http://graphics.stanford.edu/projects/densecrf/
-  + https://github.com/amiltonwong/segmentation/blob/master/segmentation.ipynb
-  + https://github.com/jliemansifry/super-simple-semantic-segmentation
-  + http://users.cecs.anu.edu.au/~jdomke/JGMT/
-  + https://www.quora.com/How-can-one-train-and-test-conditional-random-field-CRF-in-Python-on-our-own-training-testing-dataset
-  + https://github.com/tpeng/python-crfsuite
-  + https://github.com/chokkan/crfsuite
-  + https://sites.google.com/site/zeppethefake/semantic-segmentation-crf-baseline
-  + https://github.com/lucasb-eyer/pydensecrf
-
 ## Medical image segmentation:
 
 - DIGITS
@@ -329,22 +296,59 @@ https://github.com/NVIDIA/pix2pixHD
   + https://github.com/mvirgo/MLND-Capstone
   + https://github.com/zhujun98/semantic_segmentation/tree/master/fcn8s_road
 
-## Annotation Tools:
+### Other
 
-  + https://github.com/AKSHAYUBHAT/ImageSegmentation
-  + https://github.com/kyamagu/js-segment-annotator
-  + https://github.com/CSAILVision/LabelMeAnnotationTool
-  + https://github.com/seanbell/opensurfaces-segmentation-ui
-  + https://github.com/lzx1413/labelImgPlus
-  + https://github.com/wkentaro/labelme
+## Networks by framework (Older list)
+- Keras
+	+ https://github.com/gakarak/FCN_MSCOCO_Food_Segmentation
+	+ https://github.com/abbypa/NNProject_DeepMask
+
+- TensorFlow
+	+ https://github.com/warmspringwinds/tf-image-segmentation
 	
+- Caffe
+	+ https://github.com/xiaolonw/nips14_loc_seg_testonly
+	+ https://github.com/naibaf7/caffe_neural_tool
+	
+- torch
+	+ https://github.com/erogol/seg-torch
+	+ https://github.com/phillipi/pix2pix
+	
+- MXNet
+	+ https://github.com/itijyou/ademxapp
+
+## Papers and Code (Older list)
+
+- Simultaneous detection and segmentation
+
+  + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
+  + https://github.com/bharath272/sds_eccv2014
+  
+- Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+
+  + https://github.com/HyeonwooNoh/DecoupledNet
+  
+- Learning to Propose Objects
+
+  + http://vladlen.info/publications/learning-to-propose-objects/ 
+  + https://github.com/philkr/lpo
+  
+- Nonparametric Scene Parsing via Label Transfer
+
+  + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
+  
+- Other
+  + https://github.com/cvjena/cn24
+  + http://lmb.informatik.uni-freiburg.de/resources/software.php
+  + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+  + http://jamie.shotton.org/work/code.html 
+  + https://github.com/amueller/textonboost
+  
 ## To look at
-  + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/fchollet/keras/issues/6538
   + https://github.com/warmspringwinds/tensorflow_notes
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
   + https://github.com/desimone/segmentation-models
-  + https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
   + https://github.com/nightrome/really-awesome-semantic-segmentation
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
   + http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/
