@@ -185,6 +185,11 @@ https://github.com/NVIDIA/pix2pixHD
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
 
+## Benchmarks
+  + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
+  + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
+
 ## Results:
 
   + [MSRC-21](http://rodrigob.github.io/are_we_there_yet/build/semantic_labeling_datasets_results.html)
@@ -337,7 +342,6 @@ https://github.com/NVIDIA/pix2pixHD
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/fchollet/keras/issues/6538
   + https://github.com/warmspringwinds/tensorflow_notes
-  + https://github.com/meetshah1995/pytorch-semseg
   + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
   + https://github.com/desimone/segmentation-models
   + https://github.com/mrgloom/Semantic-Segmentation-Evaluation/issues/1
