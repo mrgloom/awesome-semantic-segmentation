@@ -121,6 +121,8 @@
 	+ https://github.com/aharley/segaware [Caffe]
 - Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
 	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
+- PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
+	+ https://github.com/HongyangGao/PixelDCN
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
@@ -163,7 +165,7 @@
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
  
 ## GANS
-https://github.com/NVIDIA/pix2pixHD
++ https://github.com/NVIDIA/pix2pixHD
 
 ## Graphical Models (CRF, MRF)
   + https://github.com/cvlab-epfl/densecrf
