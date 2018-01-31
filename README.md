@@ -259,6 +259,9 @@ https://github.com/NVIDIA/pix2pixHD
   + https://github.com/scottykwok/cervix-roi-segmentation-by-unet
   + https://github.com/lishen/end2end-all-conv
   
+- Tensorflow
+  + https://github.com/imatge-upc/liverseg-2017-nipsws
+  
 - Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
   + https://github.com/ecobost/cnn4brca
   
