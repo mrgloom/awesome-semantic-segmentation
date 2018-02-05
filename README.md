@@ -204,6 +204,7 @@
   + [INRIA Annotations for Graz-02 (IG02)](https://lear.inrialpes.fr/people/marszalek/data/ig02/)
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
+  + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
