@@ -206,6 +206,7 @@
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
   + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
+  + [ApolloScape](http://apolloscape.auto/scene.html)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
