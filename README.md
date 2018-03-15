@@ -376,4 +376,5 @@
   + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+  + https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
 
