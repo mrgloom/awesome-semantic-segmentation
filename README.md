@@ -3,6 +3,7 @@
 # Awesome Semantic Segmentation
 
 ## Survey papers
+### Semantic segmentation
 - RTSeg: Real-time Semantic Segmentation Comparative Study
 
   + https://arxiv.org/abs/1803.02758
