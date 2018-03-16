@@ -2,8 +2,17 @@
 
 # Awesome Semantic Segmentation
 
+## Survey papers
+- RTSeg: Real-time Semantic Segmentation Comparative Study
+
+  + https://arxiv.org/abs/1803.02758
+  
 ## Networks by architecture
 ### Semantic segmentation
+- SkipNet-MobileNet [https://arxiv.org/pdf/1803.02758.pdf]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
+- ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://github.com/zhixuhao/unet [Keras]
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
@@ -65,6 +74,7 @@
 	+ https://github.com/petrama/VGGSegmentation [Tensorflow]
 	+ https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -72,6 +82,7 @@
 	+ https://github.com/fregu856/segmentation [Tensorflow]
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf]
 	+ https://github.com/e-lab/LinkNet [Torch]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
 - DenseNet [https://arxiv.org/pdf/1608.06993.pdf]
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 - Tiramisu [https://arxiv.org/pdf/1611.09326.pdf]
