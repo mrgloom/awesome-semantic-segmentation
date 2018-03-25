@@ -124,6 +124,8 @@
 	+ https://github.com/oyam/Semantic-Segmentation-using-Adversarial-Networks [Chainer]
 - PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
 	+ https://github.com/HongyangGao/PixelDCN [Tensorflow]
+- ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf]
+	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
