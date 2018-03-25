@@ -212,6 +212,7 @@
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
   + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
+  + https://github.com/MSiam/TFSegmentation [Tensorflow]
   + https://github.com/CSAILVision/sceneparsing [Caffe+Matlab]
 
 ## Annotation Tools:
