@@ -126,6 +126,8 @@
 	+ https://github.com/HongyangGao/PixelDCN [Tensorflow]
 - ShuffleSeg [https://arxiv.org/pdf/1803.03816.pdf]
 	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
+- AdaptSegNet [https://arxiv.org/pdf/1802.10349.pdf]
+	+ https://github.com/wasidennis/AdaptSegNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
