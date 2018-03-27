@@ -381,4 +381,5 @@
   + https://devblogs.nvidia.com/parallelforall/image-segmentation-using-digits-5/
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
+  + http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
 
