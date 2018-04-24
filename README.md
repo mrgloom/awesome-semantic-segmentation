@@ -4,7 +4,7 @@
 
 ## Networks by architecture
 ### Semantic segmentation
-- U-Net [https://arxiv.org/pdf/1505.04597.pdf][2015]
+- U-Net [https://arxiv.org/pdf/1505.04597.pdf] [2015]
 	+ https://github.com/zhixuhao/unet [Keras]
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
