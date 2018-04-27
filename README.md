@@ -387,4 +387,5 @@
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/binary-segmentation
   + https://github.com/NVIDIA/DIGITS/tree/master/examples/semantic-segmentation
   + http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
+  + https://medium.com/@barvinograd1/instance-embedding-instance-segmentation-without-proposals-31946a7c53e1
 
