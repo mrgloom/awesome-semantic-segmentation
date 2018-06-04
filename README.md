@@ -71,6 +71,7 @@
 	+ https://github.com/e-lab/ENet-training [Torch]
 	+ https://github.com/PavlosMelissinos/enet-keras [Keras]
 	+ https://github.com/fregu856/segmentation [Tensorflow]
+	+ https://github.com/kwotsin/TensorFlow-ENet [Tensorflow]
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf] [2017]
 	+ https://github.com/e-lab/LinkNet [Torch]
 - DenseNet [https://arxiv.org/pdf/1608.06993.pdf] [2018]
