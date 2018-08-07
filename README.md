@@ -222,7 +222,10 @@
   + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
   + https://github.com/MSiam/TFSegmentation [Tensorflow]
   + https://github.com/CSAILVision/sceneparsing [Caffe+Matlab]
-  + https://github.com/BloodAxe/segmentation-networks-benchmark [Keras]
+  + https://github.com/BloodAxe/segmentation-networks-benchmark [PyTorch]
+
+## Starter code
+  + https://github.com/mrgloom/keras-semantic-segmentation-example
 
 ## Annotation Tools:
 
