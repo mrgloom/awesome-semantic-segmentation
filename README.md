@@ -130,6 +130,8 @@
 	+ https://github.com/MSiam/TFSegmentation [TensorFlow]
 - AdaptSegNet [https://arxiv.org/pdf/1802.10349.pdf] [2018]
 	+ https://github.com/wasidennis/AdaptSegNet [PyTorch]
+- TuSimple-DUC [https://arxiv.org/pdf/1702.08502.pdf] [2018]
+	+ https://github.com/TuSimple/TuSimple-DUC [MxNet]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
