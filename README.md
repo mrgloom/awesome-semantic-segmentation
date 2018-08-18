@@ -239,6 +239,7 @@
   + https://github.com/lzx1413/labelImgPlus
   + https://github.com/wkentaro/labelme
   + https://github.com/labelbox/labelbox
+  + https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor
 
 ## Results:
 
