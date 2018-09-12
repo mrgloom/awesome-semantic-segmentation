@@ -154,6 +154,8 @@
   + https://github.com/voidrank/FastMask [Caffe]
 - BlitzNet [https://arxiv.org/pdf/1708.02813.pdf]
   + https://github.com/dvornikita/blitznet [Tensorflow]
+- PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
+  + https://github.com/ShuLiu1993/PANet [Caffe]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
