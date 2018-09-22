@@ -254,6 +254,7 @@
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/nightrome/really-awesome-semantic-segmentation
+  + https://github.com/JackieZhangdx/InstanceSegmentationList
   
 ## Medical image segmentation:
 
