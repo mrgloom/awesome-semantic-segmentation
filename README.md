@@ -149,6 +149,7 @@
 	+ https://github.com/jasjeetIM/Mask-RCNN [Caffe]
 	+ https://github.com/TuSimple/mx-maskrcnn [MxNet]
 	+ https://github.com/matterport/Mask_RCNN [Keras]
+	+ https://github.com/facebookresearch/maskrcnn-benchmark [PyTorch]
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
   + https://github.com/bernard24/RIS [Torch]
 - FastMask [https://arxiv.org/pdf/1612.08843.pdf]
