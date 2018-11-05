@@ -20,6 +20,7 @@
 	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
 	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]
 	+ https://github.com/ternaus/TernausNet [PyTorch]
+	+ https://github.com/qubvel/segmentation_models [Keras]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -77,6 +78,7 @@
 	+ https://github.com/davidtvs/PyTorch-ENet [PyTorch]
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf] [2017]
 	+ https://github.com/e-lab/LinkNet [Torch]
+	+ https://github.com/qubvel/segmentation_models [Keras]
 - DenseNet [https://arxiv.org/pdf/1608.06993.pdf] [2018]
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 - Tiramisu [https://arxiv.org/pdf/1611.09326.pdf] [2017]
@@ -106,6 +108,7 @@
 	+ https://github.com/pudae/tensorflow-pspnet [Tensorflow]
 	+ https://github.com/hellochick/PSPNet-tensorflow [Tensorflow]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
+	+ https://github.com/qubvel/segmentation_models [Keras]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
@@ -135,6 +138,8 @@
 	+ https://github.com/wasidennis/AdaptSegNet [PyTorch]
 - TuSimple-DUC [https://arxiv.org/pdf/1702.08502.pdf] [2018]
 	+ https://github.com/TuSimple/TuSimple-DUC [MxNet]
+- FPN [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf] [2017]
+	+ https://github.com/qubvel/segmentation_models [Keras]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
