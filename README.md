@@ -21,6 +21,7 @@
 	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]
 	+ https://github.com/ternaus/TernausNet [PyTorch]
 	+ https://github.com/qubvel/segmentation_models [Keras]
+	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -140,6 +141,10 @@
 	+ https://github.com/TuSimple/TuSimple-DUC [MxNet]
 - FPN [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf] [2017]
 	+ https://github.com/qubvel/segmentation_models [Keras]
+- R2U-Net [https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf] [2018]
+	+ https://github.com/LeeJunHyun/Image_Segmentation#r2u-net [PyTorch]
+- Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf] [2018]
+	+ https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
