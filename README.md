@@ -16,9 +16,9 @@
 	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/akirasosa/mobile-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/akirasosa/mobile-semantic-segmentation)
 	+ https://github.com/orobix/retina-unet [Keras][![GitHub stars](https://img.shields.io/github/stars/orobix/retina-unet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
 	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch][![GitHub stars](https://img.shields.io/github/stars/qureai/ultrasound-nerve-segmentation-using-torchnet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
-	+ https://github.com/ternaus/TernausNet [PyTorch][Torch][![GitHub stars](https://img.shields.io/github/stars/ternaus/TernausNet.svg?logo=github&label=Stars)](https://github.com/ternaus/TernausNet)
-	+ https://github.com/qubvel/segmentation_models [Keras]
-	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch]
+	+ https://github.com/ternaus/TernausNet [PyTorch][![GitHub stars](https://img.shields.io/github/stars/ternaus/TernausNet.svg?logo=github&label=Stars)](https://github.com/ternaus/TernausNet)
+	+ https://github.com/qubvel/segmentation_models [Keras][![GitHub stars](https://img.shields.io/github/stars/qubvel/segmentation_models.svg?logo=github&label=Stars)](https://github.com/qubvel/segmentation_models)
+	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch][![GitHub stars](https://img.shields.io/github/stars/LeeJunHyun/Image_Segmentation.svg?logo=github&label=Stars)](https://github.com/LeeJunHyun/Image_Segmentation#u-net)
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
