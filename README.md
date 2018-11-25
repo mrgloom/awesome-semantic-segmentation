@@ -6,22 +6,20 @@
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf] [2015]
 	+ https://github.com/zhixuhao/unet [Keras][![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
-	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/jocicmarko/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
 	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/EdwardTyantov/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/EdwardTyantov/ultrasound-nerve-segmentation)
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras][![GitHub stars](https://img.shields.io/github/stars/ZFTurbo/ZF_UNET_224_Pretrained_Model.svg?logo=github&label=Stars)](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model)
-	+ https://github.com/yihui-he/u-net [Keras]
-	+ https://github.com/jakeret/tf_unet [Tensorflow]
-	+ https://github.com/DLTK/DLTK/blob/master/examples/Toy_segmentation/simple_dltk_unet.ipynb [Tensorflow]
-	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
-	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras]
-	+ https://github.com/orobix/retina-unet [Keras]
-	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
-	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]
-	+ https://github.com/ternaus/TernausNet [PyTorch]
+	+ https://github.com/yihui-he/u-net [Keras][![GitHub stars](https://img.shields.io/github/stars/yihui-he/u-net.svg?logo=github&label=Stars)](https://github.com/yihui-he/u-net)
+	+ https://github.com/jakeret/tf_unet [Tensorflow][![GitHub stars](https://img.shields.io/github/stars/jakeret/tf_unet.svg?logo=github&label=Stars)](https://github.com/jakeret/tf_unet)
+	+ https://github.com/divamgupta/image-segmentation-keras [Keras][![GitHub stars](https://img.shields.io/github/stars/divamgupta/image-segmentation-keras.svg?logo=github&label=Stars)](https://github.com/divamgupta/image-segmentation-keras)
+	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/ZijunDeng/pytorch-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/ZijunDeng/pytorch-semantic-segmentation)
+	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/akirasosa/mobile-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/akirasosa/mobile-semantic-segmentation)
+	+ https://github.com/orobix/retina-unet [Keras][![GitHub stars](https://img.shields.io/github/stars/orobix/retina-unet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
+	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch][![GitHub stars](https://img.shields.io/github/stars/qureai/ultrasound-nerve-segmentation-using-torchnet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
+	+ https://github.com/ternaus/TernausNet [PyTorch][Torch][![GitHub stars](https://img.shields.io/github/stars/ternaus/TernausNet.svg?logo=github&label=Stars)](https://github.com/ternaus/TernausNet)
 	+ https://github.com/qubvel/segmentation_models [Keras]
 	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch]
+	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -263,7 +261,7 @@
 
 ## Metrics
   + https://github.com/martinkersner/py_img_seg_eval
-  
+    
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/nightrome/really-awesome-semantic-segmentation
@@ -299,6 +297,7 @@
   
 - Tensorflow
   + https://github.com/imatge-upc/liverseg-2017-nipsws
+  + https://github.com/DLTK/DLTK/tree/master/examples/applications/MRBrainS13_tissue_segmentation
   
 - Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
   + https://github.com/ecobost/cnn4brca
