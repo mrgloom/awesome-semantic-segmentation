@@ -7,7 +7,7 @@
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf] [2015]
 	+ https://github.com/zhixuhao/unet [Keras] [![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
-	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
+	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/jocicmarko/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
 	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
 	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
 	+ https://github.com/yihui-he/u-net [Keras]
