@@ -5,11 +5,11 @@
 ## Networks by architecture
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf] [2015]
-	+ https://github.com/zhixuhao/unet [Keras] [![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
+	+ https://github.com/zhixuhao/unet [Keras][![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/jocicmarko/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
-	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
-	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
+	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/EdwardTyantov/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/EdwardTyantov/ultrasound-nerve-segmentation)
+	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras][![GitHub stars](https://img.shields.io/github/stars/ZFTurbo/ZF_UNET_224_Pretrained_Model.svg?logo=github&label=Stars)](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model)
 	+ https://github.com/yihui-he/u-net [Keras]
 	+ https://github.com/jakeret/tf_unet [Tensorflow]
 	+ https://github.com/DLTK/DLTK/blob/master/examples/Toy_segmentation/simple_dltk_unet.ipynb [Tensorflow]
