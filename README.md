@@ -143,6 +143,8 @@
 	+ https://github.com/LeeJunHyun/Image_Segmentation#r2u-net [PyTorch]
 - Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf] [2018]
 	+ https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
+- DANet [https://arxiv.org/pdf/1809.02983.pdf] [2018]
+	+ https://github.com/junfu1115/DANet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
