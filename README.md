@@ -403,6 +403,7 @@
   + https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation
   + https://github.com/warmspringwinds/pytorch-segmentation-detection
   + https://github.com/neuropoly/axondeepseg
+  + https://github.com/petrochenko-pavel-a/segmentation_training_pipeline
 
 
 ## Blog posts, other:
