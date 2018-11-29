@@ -109,6 +109,7 @@
 	+ https://github.com/hellochick/PSPNet-tensorflow [Tensorflow]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
 	+ https://github.com/qubvel/segmentation_models [Keras]
+	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
