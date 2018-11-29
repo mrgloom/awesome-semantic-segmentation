@@ -94,6 +94,7 @@
 	+ https://github.com/hszhao/ICNet [Caffe]
 	+ https://github.com/ai-tor/Keras-ICNet [Keras]
 	+ https://github.com/hellochick/ICNet-tensorflow [Tensorflow]
+	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf] [?]
 	+ https://github.com/Eromera/erfnet [Torch]
 	+ https://github.com/Eromera/erfnet_pytorch [PyTorch]
