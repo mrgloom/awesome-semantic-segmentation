@@ -149,6 +149,8 @@
 	+ https://github.com/junfu1115/DANet [PyTorch]
 - ShelfNet [https://arxiv.org/pdf/1811.11254.pdf] [2018]
 	+ https://github.com/juntang-zhuang/ShelfNet [PyTorch]
+- LadderNet [https://arxiv.org/pdf/1810.07810.pdf] [2018]
+	+ https://github.com/juntang-zhuang/LadderNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
