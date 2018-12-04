@@ -147,6 +147,8 @@
 	+ https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
 - DANet [https://arxiv.org/pdf/1809.02983.pdf] [2018]
 	+ https://github.com/junfu1115/DANet [PyTorch]
+- ShelfNet [https://arxiv.org/pdf/1811.11254.pdf] [2018]
+	+ https://github.com/juntang-zhuang/ShelfNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
