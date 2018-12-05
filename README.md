@@ -198,7 +198,11 @@
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
  
 ## GANS
-+ https://github.com/NVIDIA/pix2pixHD
+- pix2pixHD [https://arxiv.org/pdf/1711.11585.pdf] [2018]
+  + https://github.com/NVIDIA/pix2pixHD
+- Probalistic Unet [https://arxiv.org/pdf/1806.05034.pdf] [2018]
+  + https://github.com/SimonKohl/probabilistic_unet
+
 
 ## Graphical Models (CRF, MRF)
   + https://github.com/cvlab-epfl/densecrf
