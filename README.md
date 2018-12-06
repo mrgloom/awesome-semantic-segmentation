@@ -267,6 +267,7 @@
   + https://github.com/wkentaro/labelme
   + https://github.com/labelbox/labelbox
   + https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI
+  + https://github.com/datapink/robosat.pink/blob/master/docs/from_opendata_to_opendataset.md
 
 ## Results:
 
@@ -276,6 +277,12 @@
 
 ## Metrics
   + https://github.com/martinkersner/py_img_seg_eval
+  
+## Losses
+
+  + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
+  + http://www.cs.toronto.edu/~wenjie/papers/iccv17/mattyus_etal_iccv17.pdf
+  + https://arxiv.org/abs/1705.08790
     
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
@@ -338,10 +345,13 @@
   + https://github.com/azavea/raster-vision
   + https://github.com/nshaud/DeepNetsForEO
   + https://github.com/trailbehind/DeepOSM
+  + https://github.com/mapbox/robosat
+  + https://github.com/datapink/robosat.pink
   
  - Data:
   	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 	+ SpaceNet[https://spacenetchallenge.github.io/]
+	+ https://github.com/chrieke/awesome-satellite-imagery-datasets
 
 ## Video segmentation
 
