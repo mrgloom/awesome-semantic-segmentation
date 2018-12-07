@@ -177,6 +177,8 @@
   + https://github.com/dvornikita/blitznet [Tensorflow]
 - PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
   + https://github.com/ShuLiu1993/PANet [Caffe]
+- TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf] [2018]
+	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
@@ -279,10 +281,8 @@
   + https://github.com/martinkersner/py_img_seg_eval
   
 ## Losses
-
   + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
-  + http://www.cs.toronto.edu/~wenjie/papers/iccv17/mattyus_etal_iccv17.pdf
-  + https://arxiv.org/abs/1705.08790
+  + https://arxiv.org/pdf/1705.08790.pdf
     
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
