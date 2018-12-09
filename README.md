@@ -147,6 +147,7 @@
 	+ https://github.com/LeeJunHyun/Image_Segmentation#r2u-net [PyTorch]
 - Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf] [2018]
 	+ https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
+	+ https://github.com/ozan-oktay/Attention-Gated-Networks [PyTorch]
 - DANet [https://arxiv.org/pdf/1809.02983.pdf] [2018]
 	+ https://github.com/junfu1115/DANet [PyTorch]
 - ShelfNet [https://arxiv.org/pdf/1811.11254.pdf] [2018]
