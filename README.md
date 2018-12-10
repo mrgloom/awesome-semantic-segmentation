@@ -69,6 +69,7 @@
 	+ https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
 	+ https://github.com/pierluigiferrari/fcn8s_tensorflow [Tensorflow]
+	+ https://github.com/theduynguyen/Keras-FCN [Keras]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf] [2016]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
