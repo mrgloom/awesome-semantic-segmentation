@@ -223,7 +223,6 @@
   + https://github.com/lucasb-eyer/pydensecrf
 
 ## Datasets:
-
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
   + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
   + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
@@ -284,6 +283,8 @@
 ## Losses
   + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
   + https://arxiv.org/pdf/1705.08790.pdf
+  + https://arxiv.org/pdf/1707.03237.pdf
+  + http://www.bmva.org/bmvc/2013/Papers/paper0032/paper0032.pdf
     
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
