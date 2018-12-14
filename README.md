@@ -258,6 +258,7 @@
   + https://github.com/MSiam/TFSegmentation [Tensorflow]
   + https://github.com/CSAILVision/sceneparsing [Caffe+Matlab]
   + https://github.com/BloodAxe/segmentation-networks-benchmark [PyTorch]
+  + https://github.com/warmspringwinds/pytorch-segmentation-detection [PyTorch]
 
 ## Starter code
   + https://github.com/mrgloom/keras-semantic-segmentation-example
