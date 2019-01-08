@@ -157,6 +157,8 @@
 	+ https://github.com/juntang-zhuang/LadderNet [PyTorch]
 - BiSeNet [https://arxiv.org/pdf/1808.00897.pdf] [2018]
 	+ https://github.com/ooooverflow/BiSeNet [PyTorch]
+- ESPNet [https://arxiv.org/pdf/1803.06815.pdf] [2018]
+	+ https://github.com/sacmehta/ESPNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
