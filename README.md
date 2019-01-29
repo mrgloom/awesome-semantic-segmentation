@@ -157,6 +157,7 @@
 	+ https://github.com/juntang-zhuang/LadderNet [PyTorch]
 - BiSeNet [https://arxiv.org/pdf/1808.00897.pdf] [2018]
 	+ https://github.com/ooooverflow/BiSeNet [PyTorch]
+	+ https://github.com/ycszen/TorchSeg [PyTorch]
 - ESPNet [https://arxiv.org/pdf/1803.06815.pdf] [2018]
 	+ https://github.com/sacmehta/ESPNet [PyTorch]
 - DFN [https://arxiv.org/pdf/1804.09337.pdf] [2018]
