@@ -5,22 +5,21 @@
 ## Networks by architecture
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf] [2015]
-	+ https://github.com/zhixuhao/unet [Keras]
+	+ https://github.com/zhixuhao/unet [Keras][![GitHub stars](https://img.shields.io/github/stars/zhixuhao/unet.svg?logo=github&label=Stars)](https://github.com/zhixuhao/unet)
+	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/jocicmarko/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/jocicmarko/ultrasound-nerve-segmentation)
+	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/EdwardTyantov/ultrasound-nerve-segmentation.svg?logo=github&label=Stars)](https://github.com/EdwardTyantov/ultrasound-nerve-segmentation)
+	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras][![GitHub stars](https://img.shields.io/github/stars/ZFTurbo/ZF_UNET_224_Pretrained_Model.svg?logo=github&label=Stars)](https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model)
+	+ https://github.com/yihui-he/u-net [Keras][![GitHub stars](https://img.shields.io/github/stars/yihui-he/u-net.svg?logo=github&label=Stars)](https://github.com/yihui-he/u-net)
+	+ https://github.com/jakeret/tf_unet [Tensorflow][![GitHub stars](https://img.shields.io/github/stars/jakeret/tf_unet.svg?logo=github&label=Stars)](https://github.com/jakeret/tf_unet)
+	+ https://github.com/divamgupta/image-segmentation-keras [Keras][![GitHub stars](https://img.shields.io/github/stars/divamgupta/image-segmentation-keras.svg?logo=github&label=Stars)](https://github.com/divamgupta/image-segmentation-keras)
+	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/ZijunDeng/pytorch-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/ZijunDeng/pytorch-semantic-segmentation)
+	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras][![GitHub stars](https://img.shields.io/github/stars/akirasosa/mobile-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/akirasosa/mobile-semantic-segmentation)
+	+ https://github.com/orobix/retina-unet [Keras][![GitHub stars](https://img.shields.io/github/stars/orobix/retina-unet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
+	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch][![GitHub stars](https://img.shields.io/github/stars/qureai/ultrasound-nerve-segmentation-using-torchnet.svg?logo=github&label=Stars)](https://github.com/orobix/retina-unet)
+	+ https://github.com/ternaus/TernausNet [PyTorch][![GitHub stars](https://img.shields.io/github/stars/ternaus/TernausNet.svg?logo=github&label=Stars)](https://github.com/ternaus/TernausNet)
+	+ https://github.com/qubvel/segmentation_models [Keras][![GitHub stars](https://img.shields.io/github/stars/qubvel/segmentation_models.svg?logo=github&label=Stars)](https://github.com/qubvel/segmentation_models)
+	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch][![GitHub stars](https://img.shields.io/github/stars/LeeJunHyun/Image_Segmentation.svg?logo=github&label=Stars)](https://github.com/LeeJunHyun/Image_Segmentation)
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
-	+ https://github.com/jocicmarko/ultrasound-nerve-segmentation [Keras]
-	+ https://github.com/EdwardTyantov/ultrasound-nerve-segmentation [Keras]
-	+ https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model [Keras]
-	+ https://github.com/yihui-he/u-net [Keras]
-	+ https://github.com/jakeret/tf_unet [Tensorflow]
-	+ https://github.com/DLTK/DLTK/blob/master/examples/Toy_segmentation/simple_dltk_unet.ipynb [Tensorflow]
-	+ https://github.com/divamgupta/image-segmentation-keras [Keras]
-	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-	+ https://github.com/akirasosa/mobile-semantic-segmentation [Keras]
-	+ https://github.com/orobix/retina-unet [Keras]
-	+ https://github.com/masahi/nnvm-vision-demo/blob/master/unet_segmentation.py [onnx+nnvm]
-	+ https://github.com/qureai/ultrasound-nerve-segmentation-using-torchnet [Torch]
-	+ https://github.com/ternaus/TernausNet [PyTorch]
-	+ https://tuatini.me/practical-image-segmentation-with-unet/ [PyTorch]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -47,6 +46,8 @@
 	+ https://github.com/martinkersner/train-DeepLab [Caffe]
 	+ https://github.com/chenxi116/TF-deeplab [Tensorflow]
 	+ https://github.com/bonlime/keras-deeplab-v3-plus [Keras]
+	+ https://github.com/tensorflow/models/tree/master/research/deeplab [Tensorflow]
+	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
 - FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
@@ -68,6 +69,7 @@
 	+ https://github.com/simonguist/testing-fcn-for-cityscapes [Caffe]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
 	+ https://github.com/pierluigiferrari/fcn8s_tensorflow [Tensorflow]
+	+ https://github.com/theduynguyen/Keras-FCN [Keras]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf] [2016]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -77,6 +79,7 @@
 	+ https://github.com/davidtvs/PyTorch-ENet [PyTorch]
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf] [2017]
 	+ https://github.com/e-lab/LinkNet [Torch]
+	+ https://github.com/qubvel/segmentation_models [Keras]
 - DenseNet [https://arxiv.org/pdf/1608.06993.pdf] [2018]
 	+ https://github.com/flyyufelix/DenseNet-Keras [Keras]
 - Tiramisu [https://arxiv.org/pdf/1611.09326.pdf] [2017]
@@ -93,6 +96,7 @@
 	+ https://github.com/hszhao/ICNet [Caffe]
 	+ https://github.com/ai-tor/Keras-ICNet [Keras]
 	+ https://github.com/hellochick/ICNet-tensorflow [Tensorflow]
+	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf] [?]
 	+ https://github.com/Eromera/erfnet [Torch]
 	+ https://github.com/Eromera/erfnet_pytorch [PyTorch]
@@ -106,6 +110,9 @@
 	+ https://github.com/pudae/tensorflow-pspnet [Tensorflow]
 	+ https://github.com/hellochick/PSPNet-tensorflow [Tensorflow]
 	+ https://github.com/hellochick/semantic-segmentation-tensorflow [Tensorflow]
+	+ https://github.com/qubvel/segmentation_models [Keras]
+	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
+	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
@@ -135,6 +142,26 @@
 	+ https://github.com/wasidennis/AdaptSegNet [PyTorch]
 - TuSimple-DUC [https://arxiv.org/pdf/1702.08502.pdf] [2018]
 	+ https://github.com/TuSimple/TuSimple-DUC [MxNet]
+- FPN [http://presentations.cocodataset.org/COCO17-Stuff-FAIR.pdf] [2017]
+	+ https://github.com/qubvel/segmentation_models [Keras]
+- R2U-Net [https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf] [2018]
+	+ https://github.com/LeeJunHyun/Image_Segmentation#r2u-net [PyTorch]
+- Attention U-Net [https://arxiv.org/pdf/1804.03999.pdf] [2018]
+	+ https://github.com/LeeJunHyun/Image_Segmentation#attention-u-net [PyTorch]
+	+ https://github.com/ozan-oktay/Attention-Gated-Networks [PyTorch]
+- DANet [https://arxiv.org/pdf/1809.02983.pdf] [2018]
+	+ https://github.com/junfu1115/DANet [PyTorch]
+- ShelfNet [https://arxiv.org/pdf/1811.11254.pdf] [2018]
+	+ https://github.com/juntang-zhuang/ShelfNet [PyTorch]
+- LadderNet [https://arxiv.org/pdf/1810.07810.pdf] [2018]
+	+ https://github.com/juntang-zhuang/LadderNet [PyTorch]
+- BiSeNet [https://arxiv.org/pdf/1808.00897.pdf] [2018]
+	+ https://github.com/ooooverflow/BiSeNet [PyTorch]
+	+ https://github.com/ycszen/TorchSeg [PyTorch]
+- ESPNet [https://arxiv.org/pdf/1803.06815.pdf] [2018]
+	+ https://github.com/sacmehta/ESPNet [PyTorch]
+- DFN [https://arxiv.org/pdf/1804.09337.pdf] [2018]
+	+ https://github.com/ycszen/TorchSeg [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
@@ -159,6 +186,8 @@
   + https://github.com/dvornikita/blitznet [Tensorflow]
 - PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
   + https://github.com/ShuLiu1993/PANet [Caffe]
+- TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf] [2018]
+	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
@@ -180,7 +209,11 @@
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
  
 ## GANS
-+ https://github.com/NVIDIA/pix2pixHD
+- pix2pixHD [https://arxiv.org/pdf/1711.11585.pdf] [2018]
+  + https://github.com/NVIDIA/pix2pixHD
+- Probalistic Unet [https://arxiv.org/pdf/1806.05034.pdf] [2018]
+  + https://github.com/SimonKohl/probabilistic_unet
+
 
 ## Graphical Models (CRF, MRF)
   + https://github.com/cvlab-epfl/densecrf
@@ -197,7 +230,6 @@
   + https://github.com/lucasb-eyer/pydensecrf
 
 ## Datasets:
-
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
   + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
   + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
@@ -231,6 +263,8 @@
   + https://github.com/MSiam/TFSegmentation [Tensorflow]
   + https://github.com/CSAILVision/sceneparsing [Caffe+Matlab]
   + https://github.com/BloodAxe/segmentation-networks-benchmark [PyTorch]
+  + https://github.com/warmspringwinds/pytorch-segmentation-detection [PyTorch]
+  + https://github.com/ycszen/TorchSeg [PyTorch]
 
 ## Starter code
   + https://github.com/mrgloom/keras-semantic-segmentation-example
@@ -244,6 +278,8 @@
   + https://github.com/lzx1413/labelImgPlus
   + https://github.com/wkentaro/labelme
   + https://github.com/labelbox/labelbox
+  + https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI
+  + https://github.com/Labelbox/Labelbox
 
 ## Results:
 
@@ -254,6 +290,12 @@
 ## Metrics
   + https://github.com/martinkersner/py_img_seg_eval
   
+## Losses
+  + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
+  + https://arxiv.org/pdf/1705.08790.pdf
+  + https://arxiv.org/pdf/1707.03237.pdf
+  + http://www.bmva.org/bmvc/2013/Papers/paper0032/paper0032.pdf
+    
 ## Other lists
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/nightrome/really-awesome-semantic-segmentation
@@ -289,6 +331,7 @@
   
 - Tensorflow
   + https://github.com/imatge-upc/liverseg-2017-nipsws
+  + https://github.com/DLTK/DLTK/tree/master/examples/applications/MRBrainS13_tissue_segmentation
   
 - Using Convolutional Neural Networks (CNN) for Semantic Segmentation of Breast Cancer Lesions (BRCA)
   + https://github.com/ecobost/cnn4brca
@@ -314,10 +357,13 @@
   + https://github.com/azavea/raster-vision
   + https://github.com/nshaud/DeepNetsForEO
   + https://github.com/trailbehind/DeepOSM
+  + https://github.com/mapbox/robosat
+  + https://github.com/datapink/robosat.pink
   
  - Data:
   	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 	+ SpaceNet[https://spacenetchallenge.github.io/]
+	+ https://github.com/chrieke/awesome-satellite-imagery-datasets
 
 ## Video segmentation
 
@@ -392,6 +438,7 @@
   + https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation
   + https://github.com/warmspringwinds/pytorch-segmentation-detection
   + https://github.com/neuropoly/axondeepseg
+  + https://github.com/petrochenko-pavel-a/segmentation_training_pipeline
 
 
 ## Blog posts, other:
