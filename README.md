@@ -265,6 +265,7 @@
   + https://github.com/BloodAxe/segmentation-networks-benchmark [PyTorch]
   + https://github.com/warmspringwinds/pytorch-segmentation-detection [PyTorch]
   + https://github.com/ycszen/TorchSeg [PyTorch]
+  + https://github.com/qubvel/segmentation_models [Keras]
 
 ## Starter code
   + https://github.com/mrgloom/keras-semantic-segmentation-example
