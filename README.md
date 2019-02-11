@@ -378,6 +378,7 @@
   + https://github.com/ndrplz/self-driving-car
   + https://github.com/mvirgo/MLND-Capstone
   + https://github.com/zhujun98/semantic_segmentation/tree/master/fcn8s_road
+  + https://github.com/MaybeShewill-CV/lanenet-lane-detection
 
 ### Other
 
