@@ -162,6 +162,8 @@
 	+ https://github.com/sacmehta/ESPNet [PyTorch]
 - DFN [https://arxiv.org/pdf/1804.09337.pdf] [2018]
 	+ https://github.com/ycszen/TorchSeg [PyTorch]
+- CCNet [https://arxiv.org/pdf/1811.11721.pdf] [2018]
+	+ https://github.com/speedinghzl/CCNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
