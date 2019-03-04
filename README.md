@@ -49,6 +49,7 @@
 	+ https://github.com/bonlime/keras-deeplab-v3-plus [Keras]
 	+ https://github.com/tensorflow/models/tree/master/research/deeplab [Tensorflow]
 	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
+	+ https://github.com/kazuto1011/deeplab-pytorch [PyTorch]
 - FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
