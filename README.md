@@ -286,6 +286,7 @@
   + https://github.com/labelbox/labelbox
   + https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI
   + https://github.com/Labelbox/Labelbox
+  + https://github.com/opencv/cvat
 
 ## Results:
 
