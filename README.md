@@ -50,6 +50,7 @@
 	+ https://github.com/tensorflow/models/tree/master/research/deeplab [Tensorflow]
 	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
 	+ https://github.com/kazuto1011/deeplab-pytorch [PyTorch]
+	+ https://github.com/youansheng/torchcv [PyTorch]
 - FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
@@ -116,6 +117,7 @@
 	+ https://github.com/qubvel/segmentation_models [Keras]
 	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
+	+ https://github.com/youansheng/torchcv [PyTorch]
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
@@ -167,6 +169,8 @@
 	+ https://github.com/ycszen/TorchSeg [PyTorch]
 - CCNet [https://arxiv.org/pdf/1811.11721.pdf] [2018]
 	+ https://github.com/speedinghzl/CCNet [PyTorch]
+- DenseASPP [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf] [2018]
+	+ https://github.com/youansheng/torchcv [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
