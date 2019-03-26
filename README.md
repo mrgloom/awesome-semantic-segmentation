@@ -265,6 +265,7 @@
   + [UrbanMapper3D](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17007&pm=14703)
   + [RoadDetector](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036&pm=14735)
   + [Cityscapes](https://www.cityscapes-dataset.com/)
+  + [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
