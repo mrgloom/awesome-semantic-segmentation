@@ -277,6 +277,7 @@
   + https://github.com/warmspringwinds/pytorch-segmentation-detection [PyTorch]
   + https://github.com/ycszen/TorchSeg [PyTorch]
   + https://github.com/qubvel/segmentation_models [Keras]
+  + https://github.com/qubvel/segmentation_models.pytorch [PyTorch]
 
 ## Starter code
   + https://github.com/mrgloom/keras-semantic-segmentation-example
