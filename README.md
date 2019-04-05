@@ -198,6 +198,8 @@
   + https://github.com/ShuLiu1993/PANet [Caffe]
 - TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf] [2018]
 	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
+- MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
+	+ https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
