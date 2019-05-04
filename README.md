@@ -221,6 +221,9 @@
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
  
 ## GANS
+- pix2pix [https://arxiv.org/pdf/1611.07004.pdf] [2018]
+  + https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix [Pytorch]
+  + https://github.com/affinelayer/pix2pix-tensorflow [Tensorflow]
 - pix2pixHD [https://arxiv.org/pdf/1711.11585.pdf] [2018]
   + https://github.com/NVIDIA/pix2pixHD
 - Probalistic Unet [https://arxiv.org/pdf/1806.05034.pdf] [2018]
@@ -281,6 +284,9 @@
   + https://github.com/ycszen/TorchSeg [PyTorch]
   + https://github.com/qubvel/segmentation_models [Keras]
   + https://github.com/qubvel/segmentation_models.pytorch [PyTorch]
+
+## Evaluation code
+  + [Cityscapes dataset] https://github.com/phillipi/pix2pix/tree/master/scripts/eval_cityscapes
 
 ## Starter code
   + https://github.com/mrgloom/keras-semantic-segmentation-example
