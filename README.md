@@ -171,6 +171,8 @@
 	+ https://github.com/speedinghzl/CCNet [PyTorch]
 - DenseASPP [http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf] [2018]
 	+ https://github.com/youansheng/torchcv [PyTorch]
+- Fast-SCNN [https://arxiv.org/pdf/1902.04502.pdf] [2019]
+	+ https://github.com/DeepVoltaire/Fast-SCNN [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
