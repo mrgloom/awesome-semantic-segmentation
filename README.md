@@ -97,7 +97,7 @@
 	+ https://github.com/aayushbansal/PixelNet [Caffe]
 - ICNet [https://arxiv.org/pdf/1704.08545.pdf] [2017]
 	+ https://github.com/hszhao/ICNet [Caffe]
-	+ https://github.com/ai-tor/Keras-ICNet [Keras]
+	+ https://github.com/aitorzip/Keras-ICNet [Keras]
 	+ https://github.com/hellochick/ICNet-tensorflow [Tensorflow]
 	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf] [?]
