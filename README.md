@@ -174,6 +174,10 @@
 	+ https://github.com/DeepVoltaire/Fast-SCNN [PyTorch]
 - HRNet [https://arxiv.org/pdf/1904.04514.pdf] [2019]
 	+ https://github.com/HRNet/HRNet-Semantic-Segmentation [PyTorch]
+- PSANet [https://hszhao.github.io/papers/eccv18_psanet.pdf] [2018]
+	+ https://github.com/hszhao/PSANet [Caffe]
+- UPSNet [https://arxiv.org/pdf/1901.03784.pdf] [2019]
+	+ https://github.com/uber-research/UPSNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
