@@ -172,6 +172,8 @@
 	+ https://github.com/youansheng/torchcv [PyTorch]
 - Fast-SCNN [https://arxiv.org/pdf/1902.04502.pdf] [2019]
 	+ https://github.com/DeepVoltaire/Fast-SCNN [PyTorch]
+- HRNet [https://arxiv.org/pdf/1904.04514.pdf] [2019]
+	+ https://github.com/HRNet/HRNet-Semantic-Segmentation [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
