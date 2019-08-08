@@ -20,6 +20,7 @@
 	+ https://github.com/qubvel/segmentation_models [Keras][![GitHub stars](https://img.shields.io/github/stars/qubvel/segmentation_models.svg?logo=github&label=Stars)](https://github.com/qubvel/segmentation_models)
 	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch][![GitHub stars](https://img.shields.io/github/stars/LeeJunHyun/Image_Segmentation.svg?logo=github&label=Stars)](https://github.com/LeeJunHyun/Image_Segmentation)
 	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
@@ -34,6 +35,7 @@
 	+ https://github.com/chainer/chainercv/tree/master/examples/segnet [Chainer]
 	+ https://github.com/ykamikawa/keras-SegNet [Keras]
 	+ https://github.com/ykamikawa/tf-keras-SegNet [Keras]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf] [2017]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
 	+ https://github.com/cdmh/deeplab-public [Caffe]
@@ -51,6 +53,7 @@
 	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
 	+ https://github.com/kazuto1011/deeplab-pytorch [PyTorch]
 	+ https://github.com/youansheng/torchcv [PyTorch]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
@@ -74,6 +77,7 @@
 	+ https://github.com/pierluigiferrari/fcn8s_tensorflow [Tensorflow]
 	+ https://github.com/theduynguyen/Keras-FCN [Keras]
 	+ https://github.com/JihongJu/keras-fcn [Keras]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - ENet [https://arxiv.org/pdf/1606.02147.pdf] [2016]
  	+ https://github.com/TimoSaemann/ENet [Caffe]
 	+ https://github.com/e-lab/ENet-training [Torch]
@@ -81,6 +85,7 @@
 	+ https://github.com/fregu856/segmentation [Tensorflow]
 	+ https://github.com/kwotsin/TensorFlow-ENet [Tensorflow]
 	+ https://github.com/davidtvs/PyTorch-ENet [PyTorch]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf] [2017]
 	+ https://github.com/e-lab/LinkNet [Torch]
 	+ https://github.com/qubvel/segmentation_models [Keras]
@@ -117,6 +122,7 @@
 	+ https://github.com/oandrienko/fast-semantic-segmentation [Tensorflow]
 	+ https://github.com/speedinghzl/pytorch-segmentation-toolbox [PyTorch]
 	+ https://github.com/youansheng/torchcv [PyTorch]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - DeconvNet [https://arxiv.org/pdf/1505.04366.pdf] [2015]
 	+ http://cvlab.postech.ac.kr/research/deconvnet/ [Caffe]
 	+ https://github.com/HyeonwooNoh/DeconvNet [Caffe]
@@ -126,11 +132,13 @@
 - GCN [https://arxiv.org/pdf/1703.02719.pdf] [2017]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - LRR [https://arxiv.org/pdf/1605.02264.pdf] [2016]
 	+ https://github.com/golnazghiasi/LRR [Matconvnet]
 - DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf] [2017]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
 	+ https://github.com/ycszen/pytorch-seg [PyTorch]
+	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - MultiNet [https://arxiv.org/pdf/1612.07695.pdf] [2016]
 	+ https://github.com/MarvinTeichmann/MultiNet
 	+ https://github.com/MarvinTeichmann/KittiSeg
