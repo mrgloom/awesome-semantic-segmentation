@@ -303,6 +303,7 @@
   + https://github.com/Tramac/awesome-semantic-segmentation-pytorch [PyTorch]
   + https://github.com/hszhao/semseg [PyTorch]
   + https://github.com/yassouali/pytorch_segmentation [PyTorch]
+  + https://github.com/divamgupta/image-segmentation-keras [Keras]
 
 ## Evaluation code
   + [Cityscapes dataset] https://github.com/phillipi/pix2pix/tree/master/scripts/eval_cityscapes
