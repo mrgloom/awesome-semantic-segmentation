@@ -186,6 +186,8 @@
 	+ https://github.com/hszhao/PSANet [Caffe]
 - UPSNet [https://arxiv.org/pdf/1901.03784.pdf] [2019]
 	+ https://github.com/uber-research/UPSNet [PyTorch]
+- ConvCRF [https://arxiv.org/pdf/1805.04777.pdf] [2018]
+	+ https://github.com/MarvinTeichmann/ConvCRF [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
