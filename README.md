@@ -188,6 +188,8 @@
 	+ https://github.com/uber-research/UPSNet [PyTorch]
 - ConvCRF [https://arxiv.org/pdf/1805.04777.pdf] [2018]
 	+ https://github.com/MarvinTeichmann/ConvCRF [PyTorch]
+- Multi-scale Guided Attention for Medical Image Segmentation [https://arxiv.org/pdf/1906.02849.pdf] [2019]
+	+ https://github.com/sinAshish/Multi-Scale-Attention [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
