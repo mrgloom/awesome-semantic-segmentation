@@ -19,8 +19,8 @@
 	+ https://github.com/ternaus/TernausNet [PyTorch][![GitHub stars](https://img.shields.io/github/stars/ternaus/TernausNet.svg?logo=github&label=Stars)](https://github.com/ternaus/TernausNet)
 	+ https://github.com/qubvel/segmentation_models [Keras][![GitHub stars](https://img.shields.io/github/stars/qubvel/segmentation_models.svg?logo=github&label=Stars)](https://github.com/qubvel/segmentation_models)
 	+ https://github.com/LeeJunHyun/Image_Segmentation#u-net [PyTorch][![GitHub stars](https://img.shields.io/github/stars/LeeJunHyun/Image_Segmentation.svg?logo=github&label=Stars)](https://github.com/LeeJunHyun/Image_Segmentation)
-	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation.svg?logo=github&label=Stars)](https://github.com/yassouali/pytorch_segmentation)
+	+ https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/ [Caffe + Matlab]
 - SegNet [https://arxiv.org/pdf/1511.00561.pdf] [2016]
 	+ https://github.com/alexgkendall/caffe-segnet [Caffe]
 	+ https://github.com/developmentseed/caffe/tree/segnet-multi-gpu [Caffe]
