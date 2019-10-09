@@ -293,6 +293,10 @@
   + [Cityscapes](https://www.cityscapes-dataset.com/)
   + [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
   + [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/)
+  + [KAIST URBAN DATASET](http://irap.kaist.ac.kr/dataset/download_1.html)
+  + [RGB-D Scanning Data from Structure.io](http://graphics.stanford.edu/projects/bundlefusion/#data)
+  + [Semap-Segmatch dataset: ETH-lab segments from LiDARs data](http://robotics.ethz.ch/~asl-datasets/segmap/segmap_data/)
+  
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
