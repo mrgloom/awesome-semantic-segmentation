@@ -220,6 +220,8 @@
 	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
 - MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
 	+ https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
+- AdaptIS [https://arxiv.org/pdf/1909.07829.pdf] [2019]
+	+ https://github.com/saic-vul/adaptis [MxNet][PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
