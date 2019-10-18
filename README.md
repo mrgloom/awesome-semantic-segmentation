@@ -222,6 +222,8 @@
 	+ https://github.com/zjhuang22/maskscoring_rcnn [PyTorch]
 - AdaptIS [https://arxiv.org/pdf/1909.07829.pdf] [2019]
 	+ https://github.com/saic-vul/adaptis [MxNet][PyTorch]
+- Pose2Seg [https://arxiv.org/pdf/1803.10683.pdf] [2019]
+	+ https://github.com/liruilong940607/Pose2Seg [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
