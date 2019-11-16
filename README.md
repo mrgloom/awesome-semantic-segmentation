@@ -192,6 +192,8 @@
 	+ https://github.com/MarvinTeichmann/ConvCRF [PyTorch]
 - Multi-scale Guided Attention for Medical Image Segmentation [https://arxiv.org/pdf/1906.02849.pdf] [2019]
 	+ https://github.com/sinAshish/Multi-Scale-Attention [PyTorch]
+- DFANet [https://arxiv.org/pdf/1904.02216.pdf] 2019
+	+ https://github.com/huaifeng1993/DFANet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
