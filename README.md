@@ -196,6 +196,8 @@
 	+ https://github.com/huaifeng1993/DFANet [PyTorch]
 - ExtremeC3Net [https://arxiv.org/pdf/1908.03093.pdf] [2019]
 	+ https://github.com/HYOJINPARK/ExtPortraitSeg [PyTorch]
+- EncNet [https://arxiv.org/pdf/1803.08904.pdf] [2018]
+	+ https://github.com/zhanghang1989/PyTorch-Encoding [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
