@@ -232,6 +232,8 @@
 	+ https://github.com/saic-vul/adaptis [MxNet][PyTorch]
 - Pose2Seg [https://arxiv.org/pdf/1803.10683.pdf] [2019]
 	+ https://github.com/liruilong940607/Pose2Seg [PyTorch]
+- YOLACT [https://arxiv.org/pdf/1904.02689.pdf] [2019]
+	+ https://github.com/dbolya/yolact [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
