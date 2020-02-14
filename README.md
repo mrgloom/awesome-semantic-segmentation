@@ -309,7 +309,6 @@
   + [RoadDetector](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036&pm=14735)
   + [Cityscapes](https://www.cityscapes-dataset.com/)
   + [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
-  + [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
