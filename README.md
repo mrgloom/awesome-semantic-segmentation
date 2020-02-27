@@ -237,6 +237,8 @@
 	+ https://github.com/liruilong940607/Pose2Seg [PyTorch]
 - YOLACT [https://arxiv.org/pdf/1904.02689.pdf] [2019]
 	+ https://github.com/dbolya/yolact [PyTorch]
+- CenterMask [https://arxiv.org/pdf/1911.06667.pdf] [2019]
+	+ https://github.com/youngwanLEE/CenterMask [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
