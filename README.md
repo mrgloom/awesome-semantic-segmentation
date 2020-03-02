@@ -239,6 +239,8 @@
 	+ https://github.com/dbolya/yolact [PyTorch]
 - CenterMask [https://arxiv.org/pdf/1911.06667.pdf] [2019]
 	+ https://github.com/youngwanLEE/CenterMask [PyTorch]
+- InstaBoost [https://arxiv.org/pdf/1908.07801.pdf] [2019]
+	+ https://github.com/GothicAi/Instaboost [PyTorch]
 
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
