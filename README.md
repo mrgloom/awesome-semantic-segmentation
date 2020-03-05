@@ -54,6 +54,7 @@
 	+ https://github.com/kazuto1011/deeplab-pytorch [PyTorch]
 	+ https://github.com/youansheng/torchcv [PyTorch]
 	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
+	+ https://github.com/hualin95/Deeplab-v3plus [PyTorch]
 - FCN [https://arxiv.org/pdf/1605.06211.pdf] [2016]
 	+ https://github.com/vlfeat/matconvnet-fcn [MatConvNet]
 	+ https://github.com/shelhamer/fcn.berkeleyvision.org [Caffe]
