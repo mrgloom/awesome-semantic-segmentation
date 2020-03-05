@@ -352,6 +352,7 @@
   + https://github.com/Deep-Magic/COCO-Style-Dataset-Generator-GUI
   + https://github.com/Labelbox/Labelbox
   + https://github.com/opencv/cvat
+  + https://github.com/saic-vul/fbrs_interactive_segmentation
 
 ## Results:
 
