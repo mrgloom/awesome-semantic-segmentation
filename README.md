@@ -365,6 +365,7 @@
   + https://github.com/martinkersner/py_img_seg_eval
   
 ## Losses
+  + https://github.com/JunMa11/SegLoss 
   + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
   + https://arxiv.org/pdf/1705.08790.pdf
   + https://arxiv.org/pdf/1707.03237.pdf
