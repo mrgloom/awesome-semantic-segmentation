@@ -202,6 +202,8 @@
 	+ https://github.com/zhanghang1989/PyTorch-Encoding [PyTorch]
 - Unet++ [https://arxiv.org/pdf/1807.10165.pdf] [2018]
 	+ https://github.com/MrGiovanni/UNetPlusPlus [Keras]
+- FastFCN [https://arxiv.org/pdf/1903.11816.pdf] [2019]
+	+ https://github.com/wuhuikai/FastFCN [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
