@@ -244,7 +244,11 @@
 	+ https://github.com/youngwanLEE/CenterMask [PyTorch]
 - InstaBoost [https://arxiv.org/pdf/1908.07801.pdf] [2019]
 	+ https://github.com/GothicAi/Instaboost [PyTorch]
-
+- SOLO [https://arxiv.org/pdf/1912.04488.pdf][2019]
+	+ https://github.com/WXinlong/SOLO [PyTorch]
+- SOLOv2 [https://arxiv.org/pdf/2003.10152.pdf][2020]
+	+ https://github.com/WXinlong/SOLO [PyTorch]
+	
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
   + https://github.com/kolesman/SEC [Caffe]
