@@ -321,7 +321,6 @@
   + [RoadDetector](https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17036&pm=14735)
   + [Cityscapes](https://www.cityscapes-dataset.com/)
   + [CamVid](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/)
-  + [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/)
 
 ## Benchmarks
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
@@ -440,12 +439,13 @@
   + https://github.com/nshaud/DeepNetsForEO
   + https://github.com/trailbehind/DeepOSM
   + https://github.com/mapbox/robosat
-  + https://github.com/datapink/robosat.pink
+  + https://github.com/datapink/neat-EO
   
- - Data:
-  	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
-	+ SpaceNet[https://spacenetchallenge.github.io/]
-	+ https://github.com/chrieke/awesome-satellite-imagery-datasets
+ - DataSets:
+ 	+ [Zhang Bin, Earth Observation OpenDataset blog](https://zhangbin0917.github.io/2018/06/12/%E9%81%A5%E6%84%9F%E6%95%B0%E6%8D%AE%E9%9B%86/)
+	+ [Christoph Rieke's Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+	+ [SpaceNet](https://spacenetchallenge.github.io/)
+
 
 ## Video segmentation
 
