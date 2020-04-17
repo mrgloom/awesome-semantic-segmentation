@@ -232,6 +232,8 @@
   + https://github.com/dvornikita/blitznet [Tensorflow]
 - PANet [https://arxiv.org/pdf/1803.01534.pdf] [2018]
   + https://github.com/ShuLiu1993/PANet [Caffe]
+- PAN [https://arxiv.org/pdf/1805.10180.pdf] [2018]
+  + https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch [PyTorch]
 - TernausNetV2 [https://arxiv.org/pdf/1806.00844.pdf] [2018]
 	+ https://github.com/ternaus/TernausNetV2 [PyTorch]
 - MS R-CNN [https://arxiv.org/pdf/1903.00241.pdf] [2019]
