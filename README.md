@@ -203,6 +203,7 @@
 	+ https://github.com/zhanghang1989/PyTorch-Encoding [PyTorch]
 - Unet++ [https://arxiv.org/pdf/1807.10165.pdf] [2018]
 	+ https://github.com/MrGiovanni/UNetPlusPlus [Keras]
+	+ https://github.com/4uiiurz1/pytorch-nested-unet [PyTorch]
 - FastFCN [https://arxiv.org/pdf/1903.11816.pdf] [2019]
 	+ https://github.com/wuhuikai/FastFCN [PyTorch]
 	
@@ -268,7 +269,7 @@
   + https://github.com/NP-coder/CLPS1520Project [Tensorflow]
   + https://github.com/renmengye/rec-attend-public [Tensorflow]
   + https://github.com/sadeepj/crfasrnn_keras [Keras]
- 
+
 ## GANS
 - pix2pix [https://arxiv.org/pdf/1611.07004.pdf] [2018]
   + https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix [Pytorch]
@@ -370,7 +371,7 @@
 
 ## Metrics
   + https://github.com/martinkersner/py_img_seg_eval
-  
+
 ## Losses
   + https://github.com/JunMa11/SegLoss 
   + http://www.cs.umanitoba.ca/~ywang/papers/isvc16.pdf
@@ -382,7 +383,7 @@
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/nightrome/really-awesome-semantic-segmentation
   + https://github.com/JackieZhangdx/InstanceSegmentationList
-  
+
 ## Medical image segmentation:
 
 - DIGITS
@@ -423,12 +424,12 @@
   + Sliding window approach
 	  - http://people.idsia.ch/~juergen/nips2012.pdf
   + https://github.com/albarqouni/Deep-Learning-for-Medical-Applications#segmentation
-	  
+	
  - Data:
    - https://luna16.grand-challenge.org/
    - https://camelyon16.grand-challenge.org/
    - https://github.com/beamandrew/medical-data
-  
+
 ## Satellite images segmentation
 
   + https://github.com/mshivaprakash/sat-seg-thesis
@@ -441,7 +442,7 @@
   + https://github.com/trailbehind/DeepOSM
   + https://github.com/mapbox/robosat
   + https://github.com/datapink/robosat.pink
-  
+
  - Data:
   	+ https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-
 	+ SpaceNet[https://spacenetchallenge.github.io/]
