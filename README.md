@@ -206,6 +206,8 @@
 	+ https://github.com/4uiiurz1/pytorch-nested-unet [PyTorch]
 - FastFCN [https://arxiv.org/pdf/1903.11816.pdf] [2019]
 	+ https://github.com/wuhuikai/FastFCN [PyTorch]
+- PortraitNet [https://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf] [2019]
+	+ https://github.com/dong-x16/PortraitNet [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
