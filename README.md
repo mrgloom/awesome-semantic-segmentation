@@ -353,7 +353,7 @@
   + https://github.com/Labelbox/Labelbox
   + https://github.com/opencv/cvat
   + https://github.com/saic-vul/fbrs_interactive_segmentation
-  + https://gitlab.com/ficsresearch/cdef
+  + https://gitlab.com/ficsresearch/s3a
 
 ## Results:
 
