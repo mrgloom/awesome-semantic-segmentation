@@ -248,6 +248,7 @@
 	+ https://github.com/dbolya/yolact [PyTorch]
 - CenterMask [https://arxiv.org/pdf/1911.06667.pdf] [2019]
 	+ https://github.com/youngwanLEE/CenterMask [PyTorch]
+	+ https://github.com/youngwanLEE/centermask2 [PyTorch]
 - InstaBoost [https://arxiv.org/pdf/1908.07801.pdf] [2019]
 	+ https://github.com/GothicAi/Instaboost [PyTorch]
 - SOLO [https://arxiv.org/pdf/1912.04488.pdf][2019]
