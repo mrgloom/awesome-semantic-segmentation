@@ -330,6 +330,7 @@
   + [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/)
 
 ## Benchmarks
+  + https://github.com/open-mmlab/mmsegmentation [PyTorch]
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
   + https://github.com/GeorgeSeif/Semantic-Segmentation-Suite [Tensorflow]
