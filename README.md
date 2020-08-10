@@ -255,6 +255,8 @@
 	+ https://github.com/WXinlong/SOLO [PyTorch]
 - SOLOv2 [https://arxiv.org/pdf/2003.10152.pdf][2020]
 	+ https://github.com/WXinlong/SOLO [PyTorch]
+- D2Det [https://openaccess.thecvf.com/content_CVPR_2020/papers/Cao_D2Det_Towards_High_Quality_Object_Detection_and_Instance_Segmentation_CVPR_2020_paper.pdf][2020]
+	+https://github.com/JialeCao001/D2Det [PyTorch]
 	
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
