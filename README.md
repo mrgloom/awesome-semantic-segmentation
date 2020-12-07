@@ -391,6 +391,7 @@
   + http://www.bmva.org/bmvc/2013/Papers/paper0032/paper0032.pdf
     
 ## Other lists
+  + https://paperswithcode.com/task/semantic-segmentation
   + https://github.com/tangzhenyu/SemanticSegmentation_DL
   + https://github.com/nightrome/really-awesome-semantic-segmentation
   + https://github.com/JackieZhangdx/InstanceSegmentationList
