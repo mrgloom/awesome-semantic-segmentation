@@ -208,6 +208,8 @@
 	+ https://github.com/wuhuikai/FastFCN [PyTorch]
 - PortraitNet [https://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf] [2019]
 	+ https://github.com/dong-x16/PortraitNet [PyTorch]
+- GSCNN [https://arxiv.org/pdf/1907.05740.pdf] [2019]
+	+ https://github.com/nv-tlabs/gscnn [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
