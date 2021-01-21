@@ -334,6 +334,7 @@
   + [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/)
 
 ## Benchmarks
+  + https://github.com/PaddlePaddle/PaddleSeg [PaddlePaddle]
   + https://github.com/openseg-group/openseg.pytorch [PyTorch]
   + https://github.com/open-mmlab/mmsegmentation [PyTorch]
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
