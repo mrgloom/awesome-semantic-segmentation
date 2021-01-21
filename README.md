@@ -38,7 +38,6 @@
 	+ https://github.com/yassouali/pytorch_segmentation [PyTorch][![GitHub stars](https://img.shields.io/github/stars/yassouali/pytorch_segmentation)](https://github.com/yassouali/pytorch_segmentation)
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf] [2017]
 	+ https://bitbucket.org/deeplab/deeplab-public/ [Caffe]
-	+ https://github.com/cdmh/deeplab-public [Caffe]
 	+ https://bitbucket.org/aquariusjay/deeplab-public-ver2 [Caffe]
 	+ https://github.com/TheLegendAli/DeepLab-Context [Caffe]
 	+ https://github.com/msracver/Deformable-ConvNets/tree/master/deeplab [MXNet]
