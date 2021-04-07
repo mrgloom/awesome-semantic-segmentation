@@ -209,7 +209,9 @@
 	+ https://github.com/dong-x16/PortraitNet [PyTorch]
 - GSCNN [https://arxiv.org/pdf/1907.05740.pdf] [2019]
 	+ https://github.com/nv-tlabs/gscnn [PyTorch]
-	
+- DDRNet [https://arxiv.org/pdf/2101.06085.pdf] [2021]
+	+ https://github.com/ydhongHIT/DDRNet [PyTorch]
+	+ https://github.com/chenjun2hao/DDRNet.pytorch [PyTorch]
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
 	+ https://github.com/msracver/FCIS [MxNet]
