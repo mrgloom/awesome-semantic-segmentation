@@ -443,7 +443,10 @@
    - https://github.com/beamandrew/medical-data
 
 ## Satellite images segmentation
-
+  + FreeNet [https://ieeexplore.ieee.org/document/9007624] [TGRS 2020]
+    - https://github.com/Z-Zheng/FreeNet
+  + FarSeg [https://arxiv.org/pdf/2011.09766.pdf] [CVPR 2020]
+    - https://github.com/Z-Zheng/FarSeg
   + https://github.com/mshivaprakash/sat-seg-thesis
   + https://github.com/KGPML/Hyperspectral
   + https://github.com/lopuhin/kaggle-dstl
